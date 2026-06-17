@@ -114,6 +114,16 @@ My work is currently centered on <strong>VialCentiva</strong>, <strong>Paltodoc<
 | **Academia Daemon** | Digital literacy and AI fundamentals for children and teenagers. | Education, AI, coding |
 | **Cyber Labs** | Defensive security practice and controlled web auditing. | Kali, Linux, Burp Suite, Bash |
 
+## Project motion
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/main/assets/fun/dino.gif" alt="Dinosaur running through the project timeline" width="88%" />
+</p>
+
+<p align="center">
+  <sub>Build, test, learn, repeat.</sub>
+</p>
+
 ## Certifications and badges
 
 <p align="center">
@@ -163,9 +173,6 @@ More details: [Certification registry](docs/CERTIFICATIONS.md).
   <br/>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=WILLIAMMDN&row=1&margin-w=40&no-bg=true&no-frame=true" alt="GitHub trophies" />
-  </p>
-  <p align="center">
-    <img src="./assets/fun/dino.gif" alt="Dinosaur game animation" width="88%" />
   </p>
 </details>
 
