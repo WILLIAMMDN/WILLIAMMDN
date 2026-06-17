@@ -1,27 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="220" viewBox="0 0 1400 220" role="img" aria-labelledby="title">
-  <title id="title">Footer signal pulse</title>
-  <defs>
-    <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#00D9FF"/>
-      <stop offset="0.5" stop-color="#FFD166"/>
-      <stop offset="1" stop-color="#7C3AED"/>
-    </linearGradient>
-    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
-      <path d="M38 0H0V38" fill="none" stroke="#FFFFFF" stroke-opacity="0.06"/>
-    </pattern>
-  </defs>
-  <rect width="1400" height="220" rx="24" fill="#07111F"/>
-  <rect width="1400" height="220" rx="24" fill="url(#grid)"/>
-  <path d="M0 142 C236 52 446 196 700 118 C958 40 1164 94 1400 42" fill="none" stroke="#00D9FF" stroke-width="12" stroke-linecap="round" opacity="0.9"/>
-  <path d="M0 174 C266 102 450 210 700 158 C958 104 1160 138 1400 92" fill="none" stroke="#FFD166" stroke-width="8" stroke-linecap="round" opacity="0.9"/>
-  <path d="M0 142 C236 52 446 196 700 118 C958 40 1164 94 1400 42" fill="none" stroke="url(#pulse)" stroke-width="5" stroke-linecap="round" stroke-dasharray="32 26">
-    <animate attributeName="stroke-dashoffset" values="0;-116" dur="2.2s" repeatCount="indefinite"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="120" viewBox="0 0 1400 120" role="img" aria-labelledby="title">
+  <title id="title">Minimal footer line</title>
+  <rect width="1400" height="120" rx="16" fill="#111827"/>
+  <path d="M80 62 H1320" stroke="#374151" stroke-width="2"/>
+  <path d="M80 62 H1320" stroke="#10B981" stroke-width="2" stroke-dasharray="34 24" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" values="0;-116" dur="4s" repeatCount="indefinite"/>
   </path>
-  <circle cx="700" cy="118" r="10" fill="#FFD166"/>
-  <circle cx="700" cy="118" r="22" fill="none" stroke="#FFD166" stroke-width="3" opacity="0.8">
-    <animate attributeName="r" values="18;54;18" dur="2.8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.75;0;0.75" dur="2.8s" repeatCount="indefinite"/>
-  </circle>
-  <text x="700" y="68" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="950" fill="#FFFFFF">Secure systems. Applied intelligence. Public value.</text>
-  <text x="700" y="196" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="900" fill="#8EDFF2" letter-spacing="4">END OF TRANSMISSION · BUILD CONTINUES</text>
+  <circle cx="700" cy="62" r="5" fill="#F9FAFB"/>
+  <text x="700" y="34" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF">Building from Apurimac with discipline, clarity and public value.</text>
+  <text x="700" y="92" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="700" fill="#9CA3AF" letter-spacing="3">END OF DOSSIER / BUILD CONTINUES</text>
 </svg>

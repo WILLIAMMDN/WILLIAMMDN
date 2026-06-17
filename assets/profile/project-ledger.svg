@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="520" viewBox="0 0 1400 520" role="img" aria-labelledby="title desc">
+  <title id="title">Project Ledger</title>
+  <desc id="desc">Clean project ledger with active systems, dates and focus areas.</desc>
+  <rect width="1400" height="520" rx="16" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="1398" height="518" rx="16" fill="none" stroke="#D1D5DB"/>
+  <text x="64" y="74" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="900" fill="#111827">Project Ledger</text>
+  <text x="64" y="110" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#6B7280">Active systems organized by problem, output and technical signal.</text>
+  <path d="M64 150 H1336" stroke="#D1D5DB"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="82" y="190" font-size="12" font-weight="900" fill="#6B7280">STATUS</text>
+    <text x="220" y="190" font-size="12" font-weight="900" fill="#6B7280">SYSTEM</text>
+    <text x="500" y="190" font-size="12" font-weight="900" fill="#6B7280">PROBLEM SPACE</text>
+    <text x="1050" y="190" font-size="12" font-weight="900" fill="#6B7280">SIGNAL</text>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">
+    <g transform="translate(64 218)">
+      <rect width="1272" height="58" rx="8" fill="#F9FAFB"/>
+      <rect x="18" y="17" width="92" height="24" rx="12" fill="#DCFCE7"/>
+      <text x="64" y="34" text-anchor="middle" font-size="11" font-weight="900" fill="#166534">2026 ACTIVE</text>
+      <text x="156" y="36" font-weight="900" fill="#111827">VialCentiva</text>
+      <text x="436" y="36" font-weight="600" fill="#374151">QR passenger audits and transport reputation</text>
+      <text x="986" y="36" font-weight="700" fill="#0F766E">React · Supabase · Privacy</text>
+    </g>
+    <g transform="translate(64 294)">
+      <rect width="1272" height="58" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <rect x="18" y="17" width="92" height="24" rx="12" fill="#FEF3C7"/>
+      <text x="64" y="34" text-anchor="middle" font-size="11" font-weight="900" fill="#92400E">AI TRACK</text>
+      <text x="156" y="36" font-weight="900" fill="#111827">Paltodoc</text>
+      <text x="436" y="36" font-weight="600" fill="#374151">Foliar anomaly detection for avocado crops</text>
+      <text x="986" y="36" font-weight="700" fill="#0F766E">Python · CNN · Datasets</text>
+    </g>
+    <g transform="translate(64 370)">
+      <rect width="1272" height="58" rx="8" fill="#F9FAFB"/>
+      <rect x="18" y="17" width="92" height="24" rx="12" fill="#DBEAFE"/>
+      <text x="64" y="34" text-anchor="middle" font-size="11" font-weight="900" fill="#1D4ED8">EDU LAB</text>
+      <text x="156" y="36" font-weight="900" fill="#111827">Academia Daemon</text>
+      <text x="436" y="36" font-weight="600" fill="#374151">Digital literacy and AI foundations</text>
+      <text x="986" y="36" font-weight="700" fill="#0F766E">Curriculum · Mentoring · AI</text>
+    </g>
+    <g transform="translate(64 446)">
+      <rect width="1272" height="58" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <rect x="18" y="17" width="92" height="24" rx="12" fill="#E5E7EB"/>
+      <text x="64" y="34" text-anchor="middle" font-size="11" font-weight="900" fill="#374151">ONGOING</text>
+      <text x="156" y="36" font-weight="900" fill="#111827">Cyber Labs</text>
+      <text x="436" y="36" font-weight="600" fill="#374151">Defensive security practice and secure routines</text>
+      <text x="986" y="36" font-weight="700" fill="#0F766E">Linux · Burp · Bash</text>
+    </g>
+  </g>
+</svg>

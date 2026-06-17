@@ -1,18 +1,17 @@
 # Profile Assets
 
-Recursos visuales locales para el README de perfil de `WILLIAMMDN/WILLIAMMDN`.
+Recursos visuales locales para el perfil `WILLIAMMDN/WILLIAMMDN`.
 
-- `hero-william-medina.svg`: cabecera principal del portafolio.
-- `signal-divider.svg`: separador animado de señal.
-- `mission-control.svg`: mapa visual de áreas de trabajo.
-- `project-matrix.svg`: matriz visual de proyectos activos.
-- `skill-constellation.svg`: constelación de tecnologías.
-- `impact-timeline.svg`: línea de ejecución e impacto.
-- `footer-pulse.svg`: cierre visual del perfil.
+- `hero-william-medina.svg`: portada principal estilo dossier.
+- `signal-divider.svg`: separador sutil animado.
+- `project-ledger.svg`: tabla visual de sistemas activos.
+- `architecture-board.svg`: mapa del metodo de construccion.
+- `build-route.svg`: timeline minimal de ejecucion.
+- `footer-pulse.svg`: cierre visual.
 
-Los SVG usan colores sobrios de marca personal:
+Direccion visual:
 
-- Void: `#07111F`
-- Cyan: `#00D9FF`
-- Gold: `#FFD166`
-- Paper: `#F8FAFC`
+- Fondo plano, sin degradados decorativos.
+- Lineas finas y alto contraste.
+- Movimiento SVG muy sutil.
+- Paleta principal: ink `#111827`, paper `#F9FAFB`, line `#D1D5DB`, accent `#0F766E`.
