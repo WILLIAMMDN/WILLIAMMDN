@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="title">
+  <title id="title">Footer pulse</title>
+  <rect width="1200" height="170" rx="16" fill="#031549"/>
+  <path d="M0 108 C200 52 380 146 600 92 C820 38 1010 72 1200 34" fill="none" stroke="#00B5E2" stroke-width="10" stroke-linecap="round"/>
+  <path d="M0 132 C230 86 382 156 600 122 C820 88 1018 100 1200 72" fill="none" stroke="#FFD500" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#FFFFFF" opacity="0.9">
+    <circle cx="188" cy="86" r="7"/>
+    <circle cx="600" cy="92" r="7"/>
+    <circle cx="972" cy="64" r="7"/>
+  </g>
+  <circle cx="600" cy="92" r="18" fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.6">
+    <animate attributeName="r" values="14;42;14" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0;0.7" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="600" y="56" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="950" fill="#FFFFFF">Secure systems. Applied intelligence. Public value.</text>
+</svg>

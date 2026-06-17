@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="72" viewBox="0 0 1000 72" role="img" aria-labelledby="title">
+  <title id="title">Animated signal divider</title>
+  <rect width="1000" height="72" rx="12" fill="#031549"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M28 36 H972" stroke="#0F2B6F" stroke-width="10"/>
+    <path d="M28 36 H972" stroke="#00B5E2" stroke-width="5" stroke-dasharray="32 28">
+      <animate attributeName="stroke-dashoffset" values="0;-120" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M120 36 C170 8 220 64 270 36 S370 8 420 36 S520 64 570 36 S670 8 720 36 S820 64 870 36" stroke="#FFD500" stroke-width="3" opacity="0.9">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <circle cx="500" cy="36" r="8" fill="#FFD500">
+    <animate attributeName="r" values="7;15;7" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
