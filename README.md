@@ -114,14 +114,14 @@ My work is currently centered on <strong>VialCentiva</strong>, <strong>Paltodoc<
 | **Academia Daemon** | Digital literacy and AI fundamentals for children and teenagers. | Education, AI, coding |
 | **Cyber Labs** | Defensive security practice and controlled web auditing. | Kali, Linux, Burp Suite, Bash |
 
-## Project motion
+## William in motion
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/main/assets/fun/dino.gif" alt="Dinosaur running through the project timeline" width="88%" />
+  <img src="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/main/assets/fun/dino.gif" alt="Max William Medina Castro project timeline animation" width="88%" />
 </p>
 
 <p align="center">
-  <sub>Build, test, learn, repeat.</sub>
+  <sub>VialCentiva, Paltodoc, Academia Daemon and Cyber Labs in one route.</sub>
 </p>
 
 ## Certifications and badges
