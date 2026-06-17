@@ -1,87 +1,94 @@
 <p align="center">
-  <img src="assets/profile/hero-william-medina.svg" alt="Max William Medina Castro - GitHub profile hero" width="100%" />
-</p>
-
-<h1 align="center">Max William Medina Castro</h1>
-
-<p align="center">
-  <strong>Systems Engineering | Cybersecurity | Applied AI | IoT | Civic Technology</strong>
+  <img src="assets/profile/hero-william-medina.svg" alt="Max William Medina Castro - Cyber systems portfolio" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/WILLIAMMDN?tab=followers">
-    <img src="https://img.shields.io/github/followers/WILLIAMMDN?style=for-the-badge&label=Follow&color=00B5E2&labelColor=031549" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/WILLIAMMDN?style=for-the-badge&label=Follow&color=00D9FF&labelColor=07111F" alt="GitHub followers" />
   </a>
   <a href="https://github.com/WILLIAMMDN?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-Active%20Systems-FFD500?style=for-the-badge&labelColor=031549&color=FFD500" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Systems-FFD166?style=for-the-badge&labelColor=07111F&color=FFD166" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/max-william-medina-castro-b73421216/">
-    <img src="https://img.shields.io/badge/LinkedIn-Max%20William%20Medina-00B5E2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=031549" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Max%20William%20Medina-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07111F" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=WILLIAMMDN&style=for-the-badge&color=00B5E2&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=WILLIAMMDN&style=for-the-badge&color=00D9FF&label=Profile+Signal" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/WILLIAMMDN">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=700&color=00B5E2&center=true&vCenter=true&width=900&lines=Building+secure+systems+with+social+impact;Cybersecurity+as+defense%2C+clarity+and+discipline;AI+for+agriculture%2C+education+and+mobility;From+Apurimac+to+production-grade+technology" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&duration=2600&pause=650&color=00D9FF&center=true&vCenter=true&width=980&lines=Systems+Engineering+with+security+as+structure;Applied+AI+for+mobility%2C+agriculture+and+education;I+build+interfaces%2C+data+flows+and+field-ready+systems;From+Apurimac+to+production-grade+technology" alt="Typing introduction" />
   </a>
 </p>
 
 <p align="center">
-  <img src="assets/profile/signal-divider.svg" alt="Animated signal divider" width="86%" />
+  <img src="assets/profile/signal-divider.svg" alt="Signal divider" width="90%" />
 </p>
 
-## Technical Identity
+## Identity Kernel
 
-I build systems where software, data and people meet: secure platforms, AI-assisted diagnosis, mobility intelligence, digital literacy programs and connected prototypes. My current work is centered on practical engineering: interfaces that people can use, data flows that can be trusted and products that solve visible problems.
+I am Max William Medina Castro, a Systems Engineering student building a portfolio around security, applied AI, civic technology and field-ready prototypes. My work is not just about shipping screens; it is about designing trust loops: who generates data, who can see it, how it is protected and what decision it improves.
 
 <table>
   <tr>
-    <td width="50%">
-      <strong>Core direction</strong><br>
-      Defensive cybersecurity, full-stack systems, AI workflows, IoT experiments and civic technology for local impact.
+    <td width="33%">
+      <strong>Security mindset</strong><br>
+      I treat authentication, privacy, validation and observability as architecture, not decoration.
     </td>
-    <td width="50%">
-      <strong>Operating style</strong><br>
-      I prefer useful products over abstract demos: observable, documented, deployable and ready to be improved in public.
+    <td width="33%">
+      <strong>Applied intelligence</strong><br>
+      I use AI where it touches reality: diagnosis, learning, classification, monitoring and decision support.
+    </td>
+    <td width="33%">
+      <strong>Local impact</strong><br>
+      I build for problems close to the ground: transport, agriculture, education and digital inclusion.
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="assets/profile/mission-control.svg" alt="Mission control map" width="100%" />
+  <img src="assets/profile/mission-control.svg" alt="Mission control" width="100%" />
 </p>
 
-## Current Systems
+## Active Systems
+
+<p align="center">
+  <img src="assets/profile/project-matrix.svg" alt="Project matrix" width="100%" />
+</p>
 
 <table>
   <tr>
-    <td width="25%" align="center"><strong>VialCentiva</strong></td>
-    <td>
-      Passenger-facing mobility platform for QR-based trip evaluations, driver reputation, public transport transparency and local incentive loops.
-    </td>
+    <th align="left">System</th>
+    <th align="left">Purpose</th>
+    <th align="left">Technical focus</th>
   </tr>
   <tr>
-    <td width="25%" align="center"><strong>Paltodoc</strong></td>
-    <td>
-      Applied AI project focused on foliar anomaly detection using specialized datasets and convolutional neural network workflows.
-    </td>
+    <td><strong>VialCentiva</strong></td>
+    <td>Passenger QR platform for public transport reputation, safer trips and local incentive loops.</td>
+    <td>React, Supabase, QR flows, privacy, antifraud device identity, civic telemetry.</td>
   </tr>
   <tr>
-    <td width="25%" align="center"><strong>Academia Daemon</strong></td>
-    <td>
-      Digital literacy and AI fundamentals initiative for children and adolescents, designed to reduce the gap between curiosity and creation.
-    </td>
+    <td><strong>Paltodoc</strong></td>
+    <td>AI-assisted foliar anomaly detection for avocado crops using specialized datasets.</td>
+    <td>Python, CNN workflows, dataset preparation, visual diagnosis, model evaluation.</td>
   </tr>
   <tr>
-    <td width="25%" align="center"><strong>Cyber Labs</strong></td>
-    <td>
-      Defensive security practice with Linux environments, controlled labs, web security tooling, scripting and hardening habits.
-    </td>
+    <td><strong>Academia Daemon</strong></td>
+    <td>Digital literacy and AI fundamentals for children and teenagers.</td>
+    <td>Learning systems, curriculum design, coding foundations, responsible AI introduction.</td>
+  </tr>
+  <tr>
+    <td><strong>Cyber Labs</strong></td>
+    <td>Controlled practice environment for defensive security, auditing and hardening habits.</td>
+    <td>Kali, Linux, Burp Suite, Bash, web security, secure development routines.</td>
   </tr>
 </table>
 
-## Engineering Stack
+## Technology Constellation
+
+<p align="center">
+  <img src="assets/profile/skill-constellation.svg" alt="Technology constellation" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -90,36 +97,29 @@ I build systems where software, data and people meet: secure platforms, AI-assis
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-031549?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Burp_Suite-031549?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Python-031549?style=for-the-badge&logo=python&logoColor=FFD500" alt="Python" />
-  <img src="https://img.shields.io/badge/React-031549?style=for-the-badge&logo=react&logoColor=00B5E2" alt="React" />
-  <img src="https://img.shields.io/badge/Supabase-031549?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/ESP32-031549?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Kali_Linux-07111F?style=for-the-badge&logo=kalilinux&logoColor=00D9FF" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Burp_Suite-07111F?style=for-the-badge&logo=burpsuite&logoColor=FFD166" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Python-07111F?style=for-the-badge&logo=python&logoColor=FFD166" alt="Python" />
+  <img src="https://img.shields.io/badge/React-07111F?style=for-the-badge&logo=react&logoColor=00D9FF" alt="React" />
+  <img src="https://img.shields.io/badge/Supabase-07111F?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/ESP32-07111F?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
 </p>
 
-<table>
-  <tr>
-    <th align="left">Domain</th>
-    <th align="left">Tools and practices</th>
-  </tr>
-  <tr>
-    <td><strong>Cybersecurity</strong></td>
-    <td>Linux, Kali, Burp Suite, Bash, defensive auditing, controlled labs, secure thinking</td>
-  </tr>
-  <tr>
-    <td><strong>Web systems</strong></td>
-    <td>React, Vite, JavaScript, PHP, Supabase, MySQL, REST-oriented integration</td>
-  </tr>
-  <tr>
-    <td><strong>AI and data</strong></td>
-    <td>Python, CNN workflows, dataset preparation, evaluation loops, applied prototypes</td>
-  </tr>
-  <tr>
-    <td><strong>IoT</strong></td>
-    <td>Arduino, ESP32, sensor thinking, transport monitoring concepts and field-oriented prototypes</td>
-  </tr>
-</table>
+## Execution Timeline
+
+<p align="center">
+  <img src="assets/profile/impact-timeline.svg" alt="Execution timeline" width="100%" />
+</p>
+
+```mermaid
+flowchart LR
+  A["Observe real problem"] --> B["Model the system"]
+  B --> C["Prototype fast"]
+  C --> D["Secure the data flow"]
+  D --> E["Measure behavior"]
+  E --> F["Improve with evidence"]
+  F --> C
+```
 
 ## GitHub Telemetry
 
@@ -130,80 +130,77 @@ I build systems where software, data and people meet: secure platforms, AI-assis
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WILLIAMMDN&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=031549&title_color=00B5E2&icon_color=FFD500&text_color=EAF8FC" alt="GitHub stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=WILLIAMMDN&theme=tokyonight&hide_border=true&background=031549&ring=FFD500&fire=FFD500&currStreakLabel=00B5E2&sideLabels=EAF8FC&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WILLIAMMDN&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=00D9FF&icon_color=FFD166&text_color=E6F7FF" alt="GitHub stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=WILLIAMMDN&theme=tokyonight&hide_border=true&background=07111F&ring=FFD166&fire=FFD166&currStreakLabel=00D9FF&sideLabels=E6F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WILLIAMMDN&layout=compact&theme=tokyonight&hide_border=true&bg_color=031549&title_color=00B5E2&text_color=EAF8FC" alt="Top languages" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WILLIAMMDN&layout=compact&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=00D9FF&text_color=E6F7FF" alt="Top languages" width="42%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WILLIAMMDN&theme=github_dark" alt="Profile details" width="56%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WILLIAMMDN&bg_color=031549&color=EAF8FC&line=00B5E2&point=FFD500&area=true&hide_border=true&custom_title=Contribution%20Signal" alt="Contribution activity graph" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WILLIAMMDN&bg_color=07111F&color=E6F7FF&line=00D9FF&point=FFD166&area=true&hide_border=true&custom_title=Contribution%20Signal" alt="Contribution activity graph" width="96%" />
 </p>
 
-## Build Philosophy
+## Operating Principles
 
 <table>
   <tr>
-    <td width="33%">
-      <strong>Security is a design layer</strong><br>
-      Authentication, privacy, RLS, logs and validation are not final touches. They are product structure.
-    </td>
-    <td width="33%">
-      <strong>AI must touch reality</strong><br>
-      Models matter when they help people decide, diagnose, learn or act with better information.
-    </td>
-    <td width="33%">
-      <strong>Local problems deserve serious engineering</strong><br>
-      Transport, education and agriculture can be treated with the same rigor as enterprise software.
-    </td>
+    <td width="25%"><strong>Prototype visibly</strong><br>Every system should show progress fast enough to be questioned, tested and improved.</td>
+    <td width="25%"><strong>Protect the user</strong><br>Data collection only matters when privacy, consent and access rules are respected.</td>
+    <td width="25%"><strong>Document the path</strong><br>A project is stronger when another builder can understand why each decision exists.</td>
+    <td width="25%"><strong>Build for context</strong><br>Technology becomes powerful when it fits the place, people and constraints around it.</td>
   </tr>
 </table>
 
-## Project Radar
+## Radar Map
 
 ```mermaid
 mindmap
-  root((WilliamMDN))
-    Cybersecurity
+  root((WILLIAMMDN))
+    Security
       Defensive labs
       Web auditing
-      Linux operations
-    Applied AI
-      Paltodoc
-      CNN workflows
+      Hardening routines
+      Privacy by design
+    AI
+      Computer vision
       Dataset strategy
-    Civic Tech
+      Paltodoc
+      Field diagnosis
+    Mobility
       VialCentiva
-      Mobility reputation
-      Passenger feedback
+      QR trust loops
+      Driver reputation
+      Public transport data
     Education
       Academia Daemon
       Digital literacy
-      AI for young builders
-    IoT
+      AI foundations
+      Young builders
+    Hardware
       ESP32
-      Transport monitoring
-      Field prototypes
+      Arduino
+      Sensor thinking
+      Monitoring prototypes
 ```
 
-## Contact
+## Contact Channel
 
 <p align="center">
   <a href="https://www.linkedin.com/in/max-william-medina-castro-b73421216/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00B5E2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=031549" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07111F" alt="LinkedIn" />
   </a>
   <a href="https://github.com/WILLIAMMDN">
-    <img src="https://img.shields.io/badge/GitHub-WILLIAMMDN-FFD500?style=for-the-badge&logo=github&logoColor=031549&labelColor=031549" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-WILLIAMMDN-FFD166?style=for-the-badge&logo=github&logoColor=07111F&labelColor=07111F" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="assets/profile/footer-pulse.svg" alt="Footer signal" width="100%" />
+  <img src="assets/profile/footer-pulse.svg" alt="Footer pulse" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Building from Apurimac with discipline, curiosity and production intent.</strong>
+  <strong>Building from Apurimac with discipline, security thinking and production intent.</strong>
 </p>
