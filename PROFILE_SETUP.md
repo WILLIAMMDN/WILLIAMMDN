@@ -1,45 +1,51 @@
 # Guia de instalacion del perfil GitHub
 
-Este paquete esta disenado para el repositorio especial de perfil:
+Repositorio especial:
 
 ```text
 WILLIAMMDN/WILLIAMMDN
 ```
 
-GitHub muestra automaticamente el `README.md` de ese repositorio en la portada publica del perfil cuando el repositorio es publico, se llama igual que el usuario y contiene `README.md` en la raiz.
-
-## Estructura esperada
+## Estructura
 
 ```text
 WILLIAMMDN/
 |-- README.md
+|-- docs/
+|   |-- CERTIFICATIONS.md
+|   |-- PROJECTS.md
+|   `-- SECURITY-LAB.md
 |-- .github/
 |   `-- workflows/
 |       `-- contribution-snake.yml
 `-- assets/
     `-- profile/
-        |-- architecture-board.svg
-        |-- asset-manifest.md
-        |-- build-route.svg
+        |-- certification-vault.svg
+        |-- core-panel.svg
+        |-- divider-system-pulse.svg
         |-- footer-pulse.svg
         |-- hero-william-medina.svg
-        |-- project-ledger.svg
-        `-- signal-divider.svg
+        |-- panel-certifications.svg
+        |-- panel-lab.svg
+        |-- panel-projects.svg
+        `-- system-access-title.svg
 ```
 
-## Snake de contribuciones
+## Snake
 
-El workflow `.github/workflows/contribution-snake.yml` genera los SVG del snake en la rama `output`.
+El workflow `.github/workflows/contribution-snake.yml` genera:
 
-Si no aparece despues del primer push:
+```text
+output/github-contribution-grid-snake.svg
+output/github-contribution-grid-snake-dark.svg
+```
+
+Si no aparece:
 
 1. Ve a `Settings > Actions > General`.
-2. En `Workflow permissions`, selecciona `Read and write permissions`.
-3. Guarda.
-4. Ve a `Actions`, abre `Generate contribution snake` y ejecuta `Run workflow`.
+2. Activa `Read and write permissions`.
+3. Ejecuta manualmente `Generate contribution snake`.
 
-## Notas
+## Certificados
 
-- Los assets principales son SVG locales y versionables.
-- El snake depende de GitHub Actions y del action externo `Platane/snk`.
-- Algunos widgets de estadisticas dependen de servicios externos como GitHub Readme Stats y Streak Stats.
+Cuando tengas imagenes o enlaces verificables de Cisco, badges o Google AI, colocalos en `assets/certifications/` y enlazalos desde `docs/CERTIFICATIONS.md`.

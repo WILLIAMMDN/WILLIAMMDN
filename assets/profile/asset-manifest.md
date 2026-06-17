@@ -1,17 +1,20 @@
 # Profile Assets
 
-Recursos visuales locales para el perfil `WILLIAMMDN/WILLIAMMDN`.
+Local visual assets for `WILLIAMMDN/WILLIAMMDN`.
 
-- `hero-william-medina.svg`: portada principal estilo dossier.
-- `signal-divider.svg`: separador sutil animado.
-- `project-ledger.svg`: tabla visual de sistemas activos.
-- `architecture-board.svg`: mapa del metodo de construccion.
-- `build-route.svg`: timeline minimal de ejecucion.
-- `footer-pulse.svg`: cierre visual.
+- `hero-william-medina.svg`: animated command center header.
+- `divider-system-pulse.svg`: animated separator.
+- `system-access-title.svg`: section title for navigation panels.
+- `panel-projects.svg`: clickable projects panel.
+- `panel-certifications.svg`: clickable certifications panel.
+- `panel-lab.svg`: clickable cyber lab panel.
+- `core-panel.svg`: system identity panel.
+- `certification-vault.svg`: Cisco / Google AI / badges panel.
+- `footer-pulse.svg`: footer visual.
 
-Direccion visual:
+Design direction:
 
-- Fondo plano, sin degradados decorativos.
-- Lineas finas y alto contraste.
-- Movimiento SVG muy sutil.
-- Paleta principal: ink `#111827`, paper `#F9FAFB`, line `#D1D5DB`, accent `#0F766E`.
+- Inspired by animated professional GitHub profiles, without copying their assets.
+- Dark command-center identity with controlled motion.
+- Modular panels and collapsible sections.
+- Snake contribution route preserved through GitHub Actions.

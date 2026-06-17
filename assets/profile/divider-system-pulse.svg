@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="74" viewBox="0 0 1200 74" role="img" aria-labelledby="title">
+  <title id="title">System Pulse Divider</title>
+  <rect width="1200" height="74" rx="12" fill="#0B1020"/>
+  <path d="M46 37 H1154" stroke="#1E293B" stroke-width="10" stroke-linecap="round"/>
+  <path d="M46 37 H1154" stroke="#22D3EE" stroke-width="4" stroke-linecap="round" stroke-dasharray="34 28">
+    <animate attributeName="stroke-dashoffset" values="0;-124" dur="2.2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M168 37 C220 8 272 66 324 37 S428 8 480 37 S584 66 636 37 S740 8 792 37 S896 66 948 37" fill="none" stroke="#8B5CF6" stroke-width="2" opacity="0.9">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="64" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="900" fill="#94A3B8" letter-spacing="4">SYSTEM PULSE</text>
+</svg>

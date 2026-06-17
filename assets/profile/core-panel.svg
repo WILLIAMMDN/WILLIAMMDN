@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="500" viewBox="0 0 1400 500" role="img" aria-labelledby="title desc">
+  <title id="title">William Medina Core Panel</title>
+  <desc id="desc">Professional central panel showing identity, systems and engineering axes.</desc>
+  <rect width="1400" height="500" rx="22" fill="#0B1020"/>
+  <g fill="none" stroke="#1E293B">
+    <path d="M0 100 H1400"/>
+    <path d="M0 250 H1400"/>
+    <path d="M0 400 H1400"/>
+    <path d="M350 0 V500"/>
+    <path d="M700 0 V500"/>
+    <path d="M1050 0 V500"/>
+  </g>
+  <text x="70" y="72" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="950" fill="#F8FAFC">Core Operating Panel</text>
+  <text x="70" y="112" font-family="JetBrains Mono, Consolas, monospace" font-size="15" font-weight="800" fill="#94A3B8">mission: build systems that survive contact with real users</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <g transform="translate(80 178)">
+      <rect width="290" height="170" rx="16" fill="#111827" stroke="#22D3EE" stroke-opacity="0.5"/>
+      <text x="28" y="46" font-size="22" font-weight="950" fill="#22D3EE">Security</text>
+      <text x="28" y="82" font-size="15" font-weight="700" fill="#E5E7EB">Validation, privacy, auditability,</text>
+      <text x="28" y="108" font-size="15" font-weight="700" fill="#E5E7EB">Linux operations and web security.</text>
+    </g>
+    <g transform="translate(405 178)">
+      <rect width="290" height="170" rx="16" fill="#F8FAFC"/>
+      <text x="28" y="46" font-size="22" font-weight="950" fill="#0B1020">Applied AI</text>
+      <text x="28" y="82" font-size="15" font-weight="700" fill="#334155">Computer vision, datasets, CNN</text>
+      <text x="28" y="108" font-size="15" font-weight="700" fill="#334155">experiments and Google AI learning.</text>
+    </g>
+    <g transform="translate(730 178)">
+      <rect width="290" height="170" rx="16" fill="#111827" stroke="#8B5CF6" stroke-opacity="0.55"/>
+      <text x="28" y="46" font-size="22" font-weight="950" fill="#C4B5FD">Civic Tech</text>
+      <text x="28" y="82" font-size="15" font-weight="700" fill="#E5E7EB">Mobility feedback, public value,</text>
+      <text x="28" y="108" font-size="15" font-weight="700" fill="#E5E7EB">VialCentiva and local metrics.</text>
+    </g>
+    <g transform="translate(1055 178)">
+      <rect width="290" height="170" rx="16" fill="#F8FAFC"/>
+      <text x="28" y="46" font-size="22" font-weight="950" fill="#0B1020">Education</text>
+      <text x="28" y="82" font-size="15" font-weight="700" fill="#334155">Academia Daemon, youth builders,</text>
+      <text x="28" y="108" font-size="15" font-weight="700" fill="#334155">AI foundations and project paths.</text>
+    </g>
+  </g>
+  <path d="M90 416 H1310" stroke="#22D3EE" stroke-width="4" stroke-dasharray="24 18" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" values="0;-84" dur="3s" repeatCount="indefinite"/>
+  </path>
+</svg>
