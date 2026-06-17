@@ -114,6 +114,12 @@ My work is currently centered on <strong>VialCentiva</strong>, <strong>Paltodoc<
 | **Academia Daemon** | Digital literacy and AI fundamentals for children and teenagers. | Education, AI, coding |
 | **Cyber Labs** | Defensive security practice and controlled web auditing. | Kali, Linux, Burp Suite, Bash |
 
+## Historical work archive
+
+I started using GitHub as my main public portfolio after already working on these projects. This archive migrates that previous work into a dated, reviewable technical log.
+
+[Open historical work log](archive/historical-work-log/README.md)
+
 ## William in motion
 
 <p align="center">
@@ -183,5 +189,6 @@ More details: [Certification registry](docs/CERTIFICATIONS.md).
 <p align="center">
   <a href="docs/PROJECTS.md">Projects</a> ·
   <a href="docs/CERTIFICATIONS.md">Certifications</a> ·
-  <a href="docs/SECURITY-LAB.md">Security Lab</a>
+  <a href="docs/SECURITY-LAB.md">Security Lab</a> ·
+  <a href="archive/historical-work-log/README.md">Historical Log</a>
 </p>
