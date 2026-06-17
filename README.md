@@ -11,11 +11,11 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="docs/PROJECTS.md">
-  <img src="https://img.shields.io/badge/Projects-2E7D32.svg?style=for-the-badge&logo=readme&logoColor=white" alt="Projects">
+  <img src="https://img.shields.io/badge/Projects-2E7D32.svg?style=for-the-badge&logoColor=white" alt="Projects">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="docs/CERTIFICATIONS.md">
-  <img src="https://img.shields.io/badge/Certifications-1565C0.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Certifications">
+  <img src="https://img.shields.io/badge/Certifications-1565C0.svg?style=for-the-badge&logoColor=white" alt="Certifications">
 </a>
 
 </div>
@@ -117,10 +117,10 @@ My work is currently centered on <strong>VialCentiva</strong>, <strong>Paltodoc<
 ## Certifications and badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy" />
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Badges-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Badges" />
+  <img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logoColor=white" alt="Cisco Networking Academy" />
+  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Badges-1BA0D7?style=for-the-badge&logoColor=white" alt="Cisco Cybersecurity Badges" />
   <img src="https://img.shields.io/badge/Google-AI%20Certificates-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Certificates" />
-  <img src="https://img.shields.io/badge/Google-Cloud%20Skills%20Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills Boost" />
+  <img src="https://img.shields.io/badge/Google-Cloud%20Skills%20Boost-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cloud Skills Boost" />
 </p>
 
 More details: [Certification registry](docs/CERTIFICATIONS.md).
@@ -163,6 +163,9 @@ More details: [Certification registry](docs/CERTIFICATIONS.md).
   <br/>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=WILLIAMMDN&row=1&margin-w=40&no-bg=true&no-frame=true" alt="GitHub trophies" />
+  </p>
+  <p align="center">
+    <img src="./assets/fun/dino.gif" alt="Dinosaur game animation" width="88%" />
   </p>
 </details>
 
