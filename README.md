@@ -1,184 +1,177 @@
-<p align="center">
-  <img src="assets/profile/hero-william-medina.svg" width="100%" alt="William Medina command center" />
+<img src="./assets/profile/intro.svg" alt="Hi, I'm William Medina" width="100%" />
+
+<div align="justify">
+
+<a href="https://www.linkedin.com/in/max-william-medina-castro-b73421216/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/WILLIAMMDN">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="docs/PROJECTS.md">
+  <img src="https://img.shields.io/badge/Projects-2E7D32.svg?style=for-the-badge&logo=readme&logoColor=white" alt="Projects">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="docs/CERTIFICATIONS.md">
+  <img src="https://img.shields.io/badge/Certifications-1565C0.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Certifications">
+</a>
+
+</div>
+
+<p></p>
+
+<p align="justify">
+Welcome to my GitHub profile. I am <strong>Max William Medina Castro</strong>, a Systems Engineering student focused on cybersecurity, applied AI, web systems and technology with local impact. I like building projects that can be used in real contexts: transport reputation systems, agricultural AI workflows, digital literacy initiatives and controlled security labs.
 </p>
 
-<p align="center">
-  <a href="https://github.com/WILLIAMMDN?tab=followers"><img src="https://img.shields.io/github/followers/WILLIAMMDN?style=for-the-badge&label=Followers&color=22D3EE&labelColor=0B1020" alt="GitHub followers" /></a>
-  <a href="https://github.com/WILLIAMMDN?tab=repositories"><img src="https://img.shields.io/badge/Systems-Active-8B5CF6?style=for-the-badge&labelColor=0B1020" alt="Active systems" /></a>
-  <a href="https://www.linkedin.com/in/max-william-medina-castro-b73421216/"><img src="https://img.shields.io/badge/LinkedIn-Max%20William%20Medina-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=WILLIAMMDN&style=for-the-badge&color=22D3EE&label=Profile+Signal" alt="Profile views" />
+<p align="justify">
+My work is currently centered on <strong>VialCentiva</strong>, <strong>Paltodoc</strong>, <strong>Academia Daemon</strong> and my own cybersecurity practice environment. I care about clean architecture, useful interfaces, documented decisions, privacy and learning by building.
 </p>
 
-<p align="center">
-  <a href="https://github.com/WILLIAMMDN">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=650&color=22D3EE&center=true&vCenter=true&width=980&lines=Systems+Engineering+%7C+Cybersecurity+%7C+Applied+AI;I+build+systems+that+can+be+used%2C+audited+and+improved;VialCentiva+%2F+Paltodoc+%2F+Academia+Daemon+%2F+Cyber+Labs" alt="Typing introduction" />
-  </a>
-</p>
+## My favorite tools and technologies
 
-<p align="center">
-  <img src="assets/profile/divider-system-pulse.svg" width="92%" alt="Animated divider" />
-</p>
-
-<p align="center">
-  <img src="assets/profile/system-access-title.svg" width="100%" alt="System access title" />
-</p>
-
-<p align="center">
-  <a href="docs/PROJECTS.md"><img src="assets/profile/panel-projects.svg" width="31%" alt="Projects panel" /></a>
-  <a href="docs/CERTIFICATIONS.md"><img src="assets/profile/panel-certifications.svg" width="31%" alt="Certifications panel" /></a>
-  <a href="docs/SECURITY-LAB.md"><img src="assets/profile/panel-lab.svg" width="31%" alt="Cyber lab panel" /></a>
-</p>
-
-<p align="center">
-  <img src="assets/profile/core-panel.svg" width="100%" alt="William Medina core panel" />
-</p>
-
-## System Profile
-
-```javascript
-const WilliamMedina = {
-  location: "Apurimac, Peru",
-  role: ["Systems Engineering", "Cybersecurity", "Applied AI"],
-  currentSystems: ["VialCentiva", "Paltodoc", "Academia Daemon", "Cyber Labs"],
-  focus: {
-    security: ["Linux", "Kali", "Burp Suite", "Bash", "secure routines"],
-    web: ["React", "Vite", "Supabase", "PHP", "MySQL"],
-    ai: ["Python", "CNN workflows", "image datasets", "Google AI learning"],
-    hardware: ["Arduino", "ESP32", "monitoring prototypes"]
-  },
-  principle: "Build useful systems with evidence, privacy and public value."
-};
-```
-
-<p align="center">
-  <img src="assets/profile/divider-system-pulse.svg" width="92%" alt="Animated divider" />
-</p>
-
-## Current Operations
+> Tools and technologies that I use, study or apply in current projects.
 
 <table>
   <tr>
-    <td width="25%" align="center"><strong>VialCentiva</strong></td>
-    <td>QR-based mobility trust platform for passenger feedback, driver reputation and civic transport metrics.</td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="48" height="48" />
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
   </tr>
   <tr>
-    <td width="25%" align="center"><strong>Paltodoc</strong></td>
-    <td>Applied AI workflow for foliar anomaly detection with image datasets and CNN experimentation.</td>
-  </tr>
-  <tr>
-    <td width="25%" align="center"><strong>Academia Daemon</strong></td>
-    <td>Digital literacy and AI foundations for young builders, with project-based learning paths.</td>
-  </tr>
-  <tr>
-    <td width="25%" align="center"><strong>Cyber Labs</strong></td>
-    <td>Controlled security practice: Linux operations, web auditing, scripting and defensive habits.</td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="48" height="48" />
+      <br>Kali
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="48" height="48" />
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="48" height="48" />
+      <br>Google AI
+    </td>
   </tr>
 </table>
 
-## Technology Stack
+## Current work
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,linux,python,js,react,vite,php,mysql,supabase,arduino,c,git,github,bash&theme=dark" alt="Skill icons" />
-  </a>
-</p>
+| Project | Focus | Stack / Area |
+| --- | --- | --- |
+| **VialCentiva** | QR-based passenger evaluations, driver reputation and transport transparency. | React, Supabase, civic UX |
+| **Paltodoc** | Foliar anomaly detection for avocado crops. | Python, CNN workflows, datasets |
+| **Academia Daemon** | Digital literacy and AI fundamentals for children and teenagers. | Education, AI, coding |
+| **Cyber Labs** | Defensive security practice and controlled web auditing. | Kali, Linux, Burp Suite, Bash |
 
-<table align="center">
-  <tr>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="64" height="64" alt="Python"/><br>Python</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="64" height="64" alt="JavaScript"/><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="52" height="52" alt="React"/><br>React</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="52" height="52" alt="Supabase"/><br>Supabase</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="52" height="52" alt="Linux"/><br>Linux</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="52" height="52" alt="Bash"/><br>Bash</td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="assets/profile/certification-vault.svg" width="100%" alt="Certification vault" />
-</p>
-
-## Certifications And Badges
+## Certifications and badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy" />
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Badges-0B1020?style=for-the-badge&logo=cisco&logoColor=22D3EE" alt="Cisco Cybersecurity badges" />
-  <img src="https://img.shields.io/badge/Google-AI%20Certificates-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI certificates" />
-  <img src="https://img.shields.io/badge/Google-Cloud%20Skills%20Boost-0B1020?style=for-the-badge&logo=googlecloud&logoColor=FACC15" alt="Google Cloud Skills Boost" />
+  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Badges-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Badges" />
+  <img src="https://img.shields.io/badge/Google-AI%20Certificates-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Certificates" />
+  <img src="https://img.shields.io/badge/Google-Cloud%20Skills%20Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills Boost" />
 </p>
 
-> Credential gallery and verification links are organized in [docs/CERTIFICATIONS.md](docs/CERTIFICATIONS.md). When I publish each certificate image or badge URL, this section becomes a full public proof wall.
+More details: [Certification registry](docs/CERTIFICATIONS.md).
 
-<p align="center">
-  <img src="assets/profile/divider-system-pulse.svg" width="92%" alt="Animated divider" />
-</p>
+## GitHub stats
 
-## Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake route" src="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
-
-<details open>
-<summary><h2>GitHub Telemetry</h2></summary>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WILLIAMMDN&theme=algolia&row=1&column=7&margin-h=15&margin-w=10&no-bg=true&no-frame=true" width="96%" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WILLIAMMDN&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=FACC15&text_color=E5E7EB" width="49%" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=WILLIAMMDN&theme=tokyonight&hide_border=true&background=0B1020&ring=FACC15&fire=FACC15&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WILLIAMMDN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=E5E7EB" width="42%" alt="Top languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WILLIAMMDN&theme=github_dark" width="56%" alt="Profile details" />
-</p>
-
+<details>
+  <summary>GitHub Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="William's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=WILLIAMMDN&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=2E7D32&icon_color=2E7D32" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="William's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WILLIAMMDN&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/>
+  </a>
 </details>
 
 <details>
-<summary><h2>Project Radar</h2></summary>
+  <summary>Activity Graph</summary>
+  <br/>
 
-```mermaid
-mindmap
-  root((WILLIAMMDN))
-    VialCentiva
-      QR feedback
-      Driver reputation
-      Civic telemetry
-    Paltodoc
-      Foliar anomaly detection
-      CNN workflows
-      Image datasets
-    Academia Daemon
-      Digital literacy
-      AI foundations
-      Young builders
-    Cyber Labs
-      Linux operations
-      Web auditing
-      Defensive security
-    Credentials
-      Cisco badges
-      Google AI certificates
-      Practical labs
-```
+[![William's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WILLIAMMDN&bg_color=ffffff&color=000000&line=2E7D32&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
-## Contact Channel
+<details open>
+  <summary>Contribution Snake</summary>
+  <br/>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/output/github-contribution-grid-snake.svg" />
+      <img alt="GitHub contribution snake route" src="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/output/github-contribution-grid-snake.svg" width="100%" />
+    </picture>
+  </p>
+</details>
+
+<details>
+  <summary>GitHub Profile Trophy</summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=WILLIAMMDN&row=1&margin-w=40&no-bg=true&no-frame=true" alt="GitHub trophies" />
+  </p>
+</details>
+
+## Recent GitHub activity
+
+![Metrics](https://metrics.lecoq.io/WILLIAMMDN?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=America%2FLima)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/max-william-medina-castro-b73421216/"><img src="https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020" alt="LinkedIn" /></a>
-  <a href="https://github.com/WILLIAMMDN"><img src="https://img.shields.io/badge/GitHub-WILLIAMMDN-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="GitHub" /></a>
-</p>
-
-<p align="center">
-  <img src="assets/profile/footer-pulse.svg" width="100%" alt="Footer pulse" />
+  <a href="docs/PROJECTS.md">Projects</a> ·
+  <a href="docs/CERTIFICATIONS.md">Certifications</a> ·
+  <a href="docs/SECURITY-LAB.md">Security Lab</a>
 </p>

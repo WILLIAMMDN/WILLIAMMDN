@@ -6,7 +6,7 @@ Repositorio especial:
 WILLIAMMDN/WILLIAMMDN
 ```
 
-## Estructura
+## Estructura actual
 
 ```text
 WILLIAMMDN/
@@ -20,16 +20,20 @@ WILLIAMMDN/
 |       `-- contribution-snake.yml
 `-- assets/
     `-- profile/
-        |-- certification-vault.svg
-        |-- core-panel.svg
-        |-- divider-system-pulse.svg
-        |-- footer-pulse.svg
-        |-- hero-william-medina.svg
-        |-- panel-certifications.svg
-        |-- panel-lab.svg
-        |-- panel-projects.svg
-        `-- system-access-title.svg
+        |-- asset-manifest.md
+        `-- intro.svg
 ```
+
+## Estilo
+
+- Inspirado en la estructura de `rzashakeri`.
+- Sin fondos pesados.
+- Sin estetica hacker generica.
+- Sin paneles saturados.
+- Intro minimal.
+- Tabla de herramientas.
+- Secciones plegables.
+- Snake de contribuciones conservado.
 
 ## Snake
 
