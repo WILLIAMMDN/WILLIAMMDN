@@ -17,6 +17,10 @@
 <a href="docs/CERTIFICATIONS.md">
   <img src="https://img.shields.io/badge/Certifications-1565C0.svg?style=for-the-badge&logoColor=white" alt="Certifications">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="docs/GITHUB-ACHIEVEMENTS.md">
+  <img src="https://img.shields.io/badge/Achievements-6F42C1.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements">
+</a>
 
 </div>
 
@@ -118,7 +122,7 @@ My work is currently centered on <strong>VialCentiva</strong>, <strong>Paltodoc<
 
 I started using GitHub as my main public portfolio after already working on these projects. This archive migrates that previous work into a dated, reviewable technical log.
 
-[Open historical work log](archive/historical-work-log/README.md)
+[Open historical work log](archive/historical-work-log/README.md) | [Open command activity log](archive/command-activity-log/README.md) | [GitHub achievements roadmap](docs/GITHUB-ACHIEVEMENTS.md)
 
 ## William in motion
 
@@ -187,8 +191,10 @@ More details: [Certification registry](docs/CERTIFICATIONS.md).
 ![Metrics](https://metrics.lecoq.io/WILLIAMMDN?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=America%2FLima)
 
 <p align="center">
-  <a href="docs/PROJECTS.md">Projects</a> ·
-  <a href="docs/CERTIFICATIONS.md">Certifications</a> ·
-  <a href="docs/SECURITY-LAB.md">Security Lab</a> ·
-  <a href="archive/historical-work-log/README.md">Historical Log</a>
+  <a href="docs/PROJECTS.md">Projects</a> |
+  <a href="docs/CERTIFICATIONS.md">Certifications</a> |
+  <a href="docs/SECURITY-LAB.md">Security Lab</a> |
+  <a href="docs/GITHUB-ACHIEVEMENTS.md">Achievements</a> |
+  <a href="archive/historical-work-log/README.md">Historical Log</a> |
+  <a href="archive/command-activity-log/README.md">Command Log</a>
 </p>
