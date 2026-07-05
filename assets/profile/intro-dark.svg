@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Hola, soy William Medina</title>
+  <desc id="desc">Banner oscuro del perfil de GitHub de William Medina.</desc>
+  <rect width="1280" height="320" rx="28" fill="#0B1120"/>
+  <path d="M0 250 C154 196 240 298 398 246 C560 194 650 268 800 214 C964 154 1074 208 1280 124 L1280 320 L0 320 Z" fill="#111827"/>
+  <path d="M72 72 L154 34 L138 132 Z" fill="none" stroke="#60A5FA" stroke-width="3" opacity="0.7"/>
+  <path d="M1088 40 L1194 72 L1110 148 Z" fill="none" stroke="#34D399" stroke-width="3" opacity="0.7"/>
+  <path d="M88 236 C210 160 300 250 420 192 C544 130 640 226 784 162 C918 104 1036 160 1190 92" fill="none" stroke="#34D399" stroke-width="5" stroke-linecap="round" stroke-dasharray="14 16">
+    <animate attributeName="stroke-dashoffset" values="0;-90" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="88" cy="236" r="8" fill="#60A5FA"/>
+  <circle cx="1190" cy="92" r="8" fill="#34D399"/>
+  <text x="80" y="126" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="56" font-weight="850" fill="#F8FAFC">Hola, soy William Medina</text>
+  <text x="82" y="178" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="650" fill="#CBD5E1">Ingeniería de Sistemas · Ciberseguridad · IA aplicada · Web</text>
+  <text x="84" y="222" font-family="JetBrains Mono, Consolas, monospace" font-size="17" font-weight="750" fill="#34D399">construyendo proyectos reales desde Apurímac, Perú</text>
+</svg>
