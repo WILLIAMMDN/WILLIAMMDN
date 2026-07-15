@@ -140,9 +140,9 @@ Mi espacio de práctica para ciberseguridad defensiva, Linux, Bash, auditoría w
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NETWORKING_ACADEMY-00FFFF?style=for-the-badge&logo=cisco&logoColor=111111&label=CISCO&labelColor=111111" alt="Cisco Networking Academy" />
-  <img src="https://img.shields.io/badge/EN_PRÁCTICA-00FFFF?style=for-the-badge&logo=kalilinux&logoColor=111111&label=CIBERSEGURIDAD&labelColor=111111" alt="Ciberseguridad en práctica" />
-  <img src="https://img.shields.io/badge/APRENDIENDO-00FFFF?style=for-the-badge&logo=googlecloud&logoColor=111111&label=GOOGLE_CLOUD&labelColor=111111" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/NETWORKING_ACADEMY-00FFFF?style=for-the-badge&logo=cisco&logoColor=00FFFF&label=CISCO&labelColor=111111" alt="Cisco Networking Academy" />
+  <img src="https://img.shields.io/badge/EN_PRÁCTICA-00FFFF?style=for-the-badge&logo=kalilinux&logoColor=00FFFF&label=CIBERSEGURIDAD&labelColor=111111" alt="Ciberseguridad en práctica" />
+  <img src="https://img.shields.io/badge/APRENDIENDO-00FFFF?style=for-the-badge&logo=googlecloud&logoColor=00FFFF&label=GOOGLE_CLOUD&labelColor=111111" alt="Google Cloud" />
 </p>
 
 ---
