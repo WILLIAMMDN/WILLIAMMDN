@@ -74,61 +74,44 @@ Mi espacio de práctica para ciberseguridad defensiva, Linux, Bash, auditoría w
   <img src="./assets/profile/neofetch.svg?v=10" alt="Cyber Labs Neofetch Terminal" width="100%" />
 </p>
 
+## 🐍 Contribuciones de GitHub
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/output/github-contribution-grid-snake.svg" alt="Snake de contribuciones" width="100%" />
+  </picture>
+</p>
+
 ## 📊 Repositorios Destacados
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr align="center" style="border: none;">
-    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-      <a href="https://github.com/WILLIAMMDN/daemon">
-        <img src="https://img.shields.io/badge/Daemon_App-00FFFF?style=for-the-badge&logo=laravel&logoColor=111111&labelColor=111111" width="100%" />
-      </a>
-      <br/><br/>
-      <b>Plataforma Educativa Gamificada</b><br/>
-      <small>Angular • Laravel • Supabase • PostgreSQL</small><br/><br/>
-      <a href="https://github.com/WILLIAMMDN/daemon">
-         <img src="https://img.shields.io/badge/Ver_Repositorio-5ab0b2?style=flat-square&logo=github&logoColor=111111&labelColor=111111" />
-      </a>
-    </td>
-    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-      <a href="https://github.com/WILLIAMMDN/WILLIAMMDN">
-        <img src="https://img.shields.io/badge/Cyber_Profile-00FFFF?style=for-the-badge&logo=gnubash&logoColor=111111&labelColor=111111" width="100%" />
-      </a>
-      <br/><br/>
-      <b>Perfil Visual de Terminal</b><br/>
-      <small>Configuración Neofetch • ASCII Art • Markdown</small><br/><br/>
-      <a href="https://github.com/WILLIAMMDN/WILLIAMMDN">
-         <img src="https://img.shields.io/badge/Ver_Repositorio-5ab0b2?style=flat-square&logo=github&logoColor=111111&labelColor=111111" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/WILLIAMMDN/daemon">
+    <img src="./assets/profile/repo-daemon.svg" alt="Daemon App Repository" width="48%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/WILLIAMMDN/WILLIAMMDN">
+    <img src="./assets/profile/repo-profile.svg" alt="Cyber Profile Repository" width="48%" />
+  </a>
+</p>
 
 ## 💻 Tech Stack Principal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=00FFFF" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,laravel,angular,supabase,postgres&theme=dark" alt="Tech Stack" />
+  </a>
 </p>
 
 <details>
-  <summary>🐍 Contribuciones y Actividad Extendida</summary>
+  <summary>📈 Gráfico de Actividad Extendida</summary>
   <br />
   <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WILLIAMMDN&bg_color=111111&color=e0e0e0&line=00ffff&point=5ab0b2&area=true&hide_border=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WILLIAMMDN&bg_color=ffffff&color=334155&line=0f766e&point=2563eb&area=true&hide_border=true" />
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=WILLIAMMDN&bg_color=111111&color=e0e0e0&line=00ffff&point=5ab0b2&area=true&hide_border=true" alt="Gráfico de actividad" width="100%" />
-    </picture>
-  </p>
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/output/github-contribution-grid-snake.svg" />
-      <img src="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/output/github-contribution-grid-snake.svg" alt="Snake de contribuciones" width="100%" />
     </picture>
   </p>
 </details>
