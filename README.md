@@ -74,15 +74,44 @@ Mi espacio de práctica para ciberseguridad defensiva, Linux, Bash, auditoría w
   <img src="./assets/profile/neofetch.svg?v=10" alt="Cyber Labs Neofetch Terminal" width="100%" />
 </p>
 
-## 📊 GitHub Stats & Repositorios
+## 📊 Repositorios Destacados
+
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr align="center" style="border: none;">
+    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+      <a href="https://github.com/WILLIAMMDN/daemon">
+        <img src="https://img.shields.io/badge/Daemon_App-00FFFF?style=for-the-badge&logo=laravel&logoColor=111111&labelColor=111111" width="100%" />
+      </a>
+      <br/><br/>
+      <b>Plataforma Educativa Gamificada</b><br/>
+      <small>Angular • Laravel • Supabase • PostgreSQL</small><br/><br/>
+      <a href="https://github.com/WILLIAMMDN/daemon">
+         <img src="https://img.shields.io/badge/Ver_Repositorio-5ab0b2?style=flat-square&logo=github&logoColor=111111&labelColor=111111" />
+      </a>
+    </td>
+    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+      <a href="https://github.com/WILLIAMMDN/WILLIAMMDN">
+        <img src="https://img.shields.io/badge/Cyber_Profile-00FFFF?style=for-the-badge&logo=gnubash&logoColor=111111&labelColor=111111" width="100%" />
+      </a>
+      <br/><br/>
+      <b>Perfil Visual de Terminal</b><br/>
+      <small>Configuración Neofetch • ASCII Art • Markdown</small><br/><br/>
+      <a href="https://github.com/WILLIAMMDN/WILLIAMMDN">
+         <img src="https://img.shields.io/badge/Ver_Repositorio-5ab0b2?style=flat-square&logo=github&logoColor=111111&labelColor=111111" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 💻 Tech Stack Principal
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=WILLIAMMDN&show_icons=true&hide_border=true&title_color=00ffff&text_color=e0e0e0&icon_color=5ab0b2&bg_color=111111&rank_icon=github" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WILLIAMMDN&layout=compact&hide_border=true&title_color=00ffff&text_color=e0e0e0&bg_color=111111" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WILLIAMMDN&hide_border=true&title_color=00ffff&text_color=e0e0e0&sideNums=e0e0e0&sideLabels=e0e0e0&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&currStreakNum=e0e0e0&background=111111" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=00FFFF" />
 </p>
 
 <details>
