@@ -74,36 +74,32 @@ Mi espacio de práctica para ciberseguridad defensiva, Linux, Bash, auditoría w
   <img src="./assets/profile/neofetch.svg?v=10" alt="Cyber Labs Neofetch Terminal" width="100%" />
 </p>
 
-## GitHub Stats
+## 📊 GitHub Stats & Repositorios
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WILLIAMMDN&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WILLIAMMDN&theme=github" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WILLIAMMDN&theme=github" alt="Resumen de actividad de GitHub de William" width="100%" />
-  </picture>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=WILLIAMMDN&show_icons=true&hide_border=true&title_color=00ffff&text_color=e0e0e0&icon_color=5ab0b2&bg_color=111111&rank_icon=github" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WILLIAMMDN&layout=compact&hide_border=true&title_color=00ffff&text_color=e0e0e0&bg_color=111111" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WILLIAMMDN&hide_border=true&title_color=00ffff&text_color=e0e0e0&sideNums=e0e0e0&sideLabels=e0e0e0&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&currStreakNum=e0e0e0&background=111111" alt="GitHub Streak" />
 </p>
 
 <details>
-  <summary>Actividad reciente</summary>
+  <summary>🐍 Contribuciones y Actividad Extendida</summary>
   <br />
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WILLIAMMDN&bg_color=0b1120&color=cbd5e1&line=34d399&point=60a5fa&area=true&hide_border=true" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WILLIAMMDN&bg_color=111111&color=e0e0e0&line=00ffff&point=5ab0b2&area=true&hide_border=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WILLIAMMDN&bg_color=ffffff&color=334155&line=0f766e&point=2563eb&area=true&hide_border=true" />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=WILLIAMMDN&bg_color=ffffff&color=334155&line=0f766e&point=2563eb&area=true&hide_border=true" alt="Gráfico de actividad de GitHub de William" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=WILLIAMMDN&bg_color=111111&color=e0e0e0&line=00ffff&point=5ab0b2&area=true&hide_border=true" alt="Gráfico de actividad" width="100%" />
     </picture>
   </p>
-</details>
-
-<details open>
-  <summary>Contribuciones</summary>
-  <br />
   <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/output/github-contribution-grid-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/output/github-contribution-grid-snake.svg" />
-      <img src="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/output/github-contribution-grid-snake.svg" alt="Snake de contribuciones de GitHub" width="100%" />
+      <img src="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/output/github-contribution-grid-snake.svg" alt="Snake de contribuciones" width="100%" />
     </picture>
   </p>
 </details>
