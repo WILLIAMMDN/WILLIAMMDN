@@ -3,7 +3,7 @@
     <style>
       .bg { fill: #111111; }
       .text { font-family: 'Fira Code', 'JetBrains Mono', 'Courier New', monospace; font-size: 14px; fill: #e0e0e0; }
-      .logo { fill: #1793d1; font-weight: bold; white-space: pre; }
+      .logo { fill: #1793d1; font-weight: bold; }
       .user { fill: #1793d1; font-weight: bold; }
       .host { fill: #e0e0e0; font-weight: bold; }
       .key { fill: #1793d1; font-weight: bold; }
@@ -16,62 +16,51 @@
     </style>
   </defs>
 
-  <rect width="650" height="430" rx="8" class="bg"/>
+  <!-- Background with border -->
+  <rect width="650" height="430" rx="8" class="bg" stroke="#30363d" stroke-width="2"/>
   
   <!-- Window Controls -->
   <circle cx="20" cy="20" r="6" fill="#ff5f56"/>
   <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
   <circle cx="60" cy="20" r="6" fill="#27c93f"/>
+  <text x="325" y="24" fill="#888888" font-family="sans-serif" font-size="12" text-anchor="middle">william@cyber-labs: ~</text>
 
   <!-- First Line (Command) -->
-  <text x="20" y="55" class="text">
-    <tspan fill="#27c93f">william@cyber-labs</tspan><tspan fill="#e0e0e0">:</tspan><tspan fill="#1793d1">~</tspan><tspan fill="#e0e0e0">$ neofetch</tspan>
+  <text x="20" y="55" class="text" xml:space="preserve">
+<tspan fill="#27c93f">william@cyber-labs</tspan><tspan fill="#e0e0e0">:</tspan><tspan fill="#1793d1">~</tspan><tspan fill="#e0e0e0">$ neofetch</tspan>
   </text>
 
   <!-- Neofetch Output -->
   <g class="content">
-    <text x="20" y="85" class="text logo">                   -`</text>
-    <text x="20" y="105" class="text logo">                  .o+`</text>
-    <text x="20" y="125" class="text logo">                 `ooo/</text>
-    <text x="20" y="145" class="text logo">                `+oooo:</text>
-    <text x="20" y="165" class="text logo">               `+oooooo:</text>
-    <text x="20" y="185" class="text logo">               -+oooooo+:</text>
-    <text x="20" y="205" class="text logo">             `/:-:++oooo+:</text>
-    <text x="20" y="225" class="text logo">            `/++++/+++++++:</text>
-    <text x="20" y="245" class="text logo">           `/++++++++++++++:</text>
-    <text x="20" y="265" class="text logo">          `/+++ooooooooooooo/`</text>
-    <text x="20" y="285" class="text logo">         ./ooosssso++osssssso+`</text>
-    <text x="20" y="305" class="text logo">        .oossssso-````/ossssss+`</text>
-    <text x="20" y="325" class="text logo">       -osssssso.      :ssssssso.</text>
-    <text x="20" y="345" class="text logo">      :osssssss/        osssso+++.</text>
-    <text x="20" y="365" class="text logo">     /ossssssss/        +ssssooo/-</text>
-    
-    <!-- Info section -->
-    <text x="280" y="105" class="text"><tspan class="user">william</tspan><tspan>@</tspan><tspan class="host">cyber-labs</tspan></text>
-    <text x="280" y="125" class="text">------------------</text>
-    <text x="280" y="145" class="text"><tspan class="key">OS</tspan>: Arch Linux x86_64</text>
-    <text x="280" y="165" class="text"><tspan class="key">Host</tspan>: System Product Name</text>
-    <text x="280" y="185" class="text"><tspan class="key">Kernel</tspan>: 6.8.9-arch1-1</text>
-    <text x="280" y="205" class="text"><tspan class="key">Uptime</tspan>: 4 hours, 20 mins</text>
-    <text x="280" y="225" class="text"><tspan class="key">Packages</tspan>: 1337 (pacman)</text>
-    <text x="280" y="245" class="text"><tspan class="key">Shell</tspan>: bash 5.2.26</text>
-    <text x="280" y="265" class="text"><tspan class="key">Terminal</tspan>: alacritty</text>
-    <text x="280" y="285" class="text"><tspan class="key">CPU</tspan>: Intel i7-1165G7 (8) @ 4.700GHz</text>
-    <text x="280" y="305" class="text"><tspan class="key">Memory</tspan>: 4321MiB / 15774MiB</text>
+    <text x="20" y="85" class="text" xml:space="preserve"><tspan class="logo">                   -`</tspan>                    <tspan class="user">william</tspan><tspan>@</tspan><tspan class="host">cyber-labs</tspan></text>
+    <text x="20" y="105" class="text" xml:space="preserve"><tspan class="logo">                  .o+`</tspan>                   ------------------</text>
+    <text x="20" y="125" class="text" xml:space="preserve"><tspan class="logo">                 `ooo/</tspan>                   <tspan class="key">OS</tspan>: Arch Linux x86_64</text>
+    <text x="20" y="145" class="text" xml:space="preserve"><tspan class="logo">                `+oooo:</tspan>                  <tspan class="key">Host</tspan>: System Product Name</text>
+    <text x="20" y="165" class="text" xml:space="preserve"><tspan class="logo">               `+oooooo:</tspan>                 <tspan class="key">Kernel</tspan>: 6.8.9-arch1-1</text>
+    <text x="20" y="185" class="text" xml:space="preserve"><tspan class="logo">               -+oooooo+:</tspan>                <tspan class="key">Uptime</tspan>: 4 hours, 20 mins</text>
+    <text x="20" y="205" class="text" xml:space="preserve"><tspan class="logo">             `/:-:++oooo+:</tspan>               <tspan class="key">Packages</tspan>: 1337 (pacman)</text>
+    <text x="20" y="225" class="text" xml:space="preserve"><tspan class="logo">            `/++++/+++++++:</tspan>              <tspan class="key">Shell</tspan>: bash 5.2.26</text>
+    <text x="20" y="245" class="text" xml:space="preserve"><tspan class="logo">           `/++++++++++++++:</tspan>             <tspan class="key">Terminal</tspan>: alacritty</text>
+    <text x="20" y="265" class="text" xml:space="preserve"><tspan class="logo">          `/+++ooooooooooooo/`</tspan>           <tspan class="key">CPU</tspan>: Intel i7-1165G7 (8) @ 4.70GHz</text>
+    <text x="20" y="285" class="text" xml:space="preserve"><tspan class="logo">         ./ooosssso++osssssso+`</tspan>          <tspan class="key">Memory</tspan>: 4321MiB / 15774MiB</text>
+    <text x="20" y="305" class="text" xml:space="preserve"><tspan class="logo">        .oossssso-````/ossssss+`</tspan>         </text>
+    <text x="20" y="325" class="text" xml:space="preserve"><tspan class="logo">       -osssssso.      :ssssssso.</tspan>        </text>
+    <text x="20" y="345" class="text" xml:space="preserve"><tspan class="logo">      :osssssss/        osssso+++.</tspan>       </text>
+    <text x="20" y="365" class="text" xml:space="preserve"><tspan class="logo">     /ossssssss/        +ssssooo/-</tspan>       </text>
 
     <!-- Color palette blocks -->
-    <rect x="280" y="335" width="16" height="16" fill="#111111"/>
-    <rect x="296" y="335" width="16" height="16" fill="#ff5f56"/>
-    <rect x="312" y="335" width="16" height="16" fill="#27c93f"/>
-    <rect x="328" y="335" width="16" height="16" fill="#ffbd2e"/>
-    <rect x="344" y="335" width="16" height="16" fill="#1793d1"/>
-    <rect x="360" y="335" width="16" height="16" fill="#b48ead"/>
-    <rect x="376" y="335" width="16" height="16" fill="#89dceb"/>
-    <rect x="392" y="335" width="16" height="16" fill="#e0e0e0"/>
+    <rect x="295" y="315" width="16" height="16" fill="#111111"/>
+    <rect x="311" y="315" width="16" height="16" fill="#ff5f56"/>
+    <rect x="327" y="315" width="16" height="16" fill="#27c93f"/>
+    <rect x="343" y="315" width="16" height="16" fill="#ffbd2e"/>
+    <rect x="359" y="315" width="16" height="16" fill="#1793d1"/>
+    <rect x="375" y="315" width="16" height="16" fill="#b48ead"/>
+    <rect x="391" y="315" width="16" height="16" fill="#89dceb"/>
+    <rect x="407" y="315" width="16" height="16" fill="#e0e0e0"/>
 
     <!-- New Command Prompt -->
-    <text x="20" y="405" class="text">
-      <tspan fill="#27c93f">william@cyber-labs</tspan><tspan fill="#e0e0e0">:</tspan><tspan fill="#1793d1">~</tspan><tspan fill="#e0e0e0">$ </tspan>
+    <text x="20" y="405" class="text" xml:space="preserve">
+<tspan fill="#27c93f">william@cyber-labs</tspan><tspan fill="#e0e0e0">:</tspan><tspan fill="#1793d1">~</tspan><tspan fill="#e0e0e0">$ </tspan>
     </text>
     <rect x="180" y="393" width="8" height="15" class="cursor"/>
   </g>
