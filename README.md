@@ -70,27 +70,9 @@ Mi espacio de práctica para ciberseguridad defensiva, Linux, Bash, auditoría w
 
 ## 💻 Sistema y Entorno (Cyber Labs)
 
-```text
-                   -`                    william@cyber-labs
-                  .o+`                   ------------------
-                 `ooo/                   OS: Arch Linux x86_64
-                `+oooo:                  Host: Security Terminal
-               `+oooooo:                 Kernel: Linux Defensivo 6.8.9
-               -+oooooo+:                Uptime: 24/7 Learning Mode
-             `/:-:++oooo+:               Packages: 1337 (pacman)
-            `/++++/+++++++:              Shell: bash 5.2.26
-           `/++++++++++++++:             Terminal: Alacritty (CyberSec)
-          `/+++ooooooooooooo/`           CPU: Sistemas & IA
-         ./ooosssso++osssssso+`          Memory: 100% Enfocado
-        .oossssso-````/ossssss+`         
-       -osssssso.      :ssssssso.        
-      :osssssss/        osssso+++.       
-     /ossssssss/        +ssssooo/-       
-   `/ossssso+/:-        -:/+osssso+-     
-  `+sso+:-`                 `.-/+oso:    
- `++:.                           `-/+/   
- .`                                 `/   
-```
+<p align="center">
+  <img src="./assets/profile/neofetch.svg" alt="Cyber Labs Neofetch Terminal" width="100%" />
+</p>
 
 ## GitHub Stats
 

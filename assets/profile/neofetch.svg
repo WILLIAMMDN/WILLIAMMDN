@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="430" viewBox="0 0 650 430">
+  <defs>
+    <style>
+      .bg { fill: #111111; }
+      .text { font-family: 'Fira Code', 'JetBrains Mono', 'Courier New', monospace; font-size: 14px; fill: #e0e0e0; }
+      .logo { fill: #1793d1; font-weight: bold; white-space: pre; }
+      .user { fill: #1793d1; font-weight: bold; }
+      .host { fill: #e0e0e0; font-weight: bold; }
+      .key { fill: #1793d1; font-weight: bold; }
+      .cursor { fill: #e0e0e0; animation: blink 1s step-end infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .content { opacity: 0; animation: fadeIn 0.1s forwards; animation-delay: 1.5s; }
+      @keyframes fadeIn { to { opacity: 1; } }
+      .typing-cmd { overflow: hidden; white-space: nowrap; animation: typing 1.5s steps(8, end); }
+      @keyframes typing { from { width: 0; } to { width: 80px; } }
+    </style>
+  </defs>
+
+  <rect width="650" height="430" rx="8" class="bg"/>
+  
+  <!-- Window Controls -->
+  <circle cx="20" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="20" r="6" fill="#27c93f"/>
+
+  <!-- First Line (Command) -->
+  <text x="20" y="55" class="text">
+    <tspan fill="#27c93f">william@cyber-labs</tspan><tspan fill="#e0e0e0">:</tspan><tspan fill="#1793d1">~</tspan><tspan fill="#e0e0e0">$ neofetch</tspan>
+  </text>
+
+  <!-- Neofetch Output -->
+  <g class="content">
+    <text x="20" y="85" class="text logo">                   -`</text>
+    <text x="20" y="105" class="text logo">                  .o+`</text>
+    <text x="20" y="125" class="text logo">                 `ooo/</text>
+    <text x="20" y="145" class="text logo">                `+oooo:</text>
+    <text x="20" y="165" class="text logo">               `+oooooo:</text>
+    <text x="20" y="185" class="text logo">               -+oooooo+:</text>
+    <text x="20" y="205" class="text logo">             `/:-:++oooo+:</text>
+    <text x="20" y="225" class="text logo">            `/++++/+++++++:</text>
+    <text x="20" y="245" class="text logo">           `/++++++++++++++:</text>
+    <text x="20" y="265" class="text logo">          `/+++ooooooooooooo/`</text>
+    <text x="20" y="285" class="text logo">         ./ooosssso++osssssso+`</text>
+    <text x="20" y="305" class="text logo">        .oossssso-````/ossssss+`</text>
+    <text x="20" y="325" class="text logo">       -osssssso.      :ssssssso.</text>
+    <text x="20" y="345" class="text logo">      :osssssss/        osssso+++.</text>
+    <text x="20" y="365" class="text logo">     /ossssssss/        +ssssooo/-</text>
+    
+    <!-- Info section -->
+    <text x="280" y="105" class="text"><tspan class="user">william</tspan><tspan>@</tspan><tspan class="host">cyber-labs</tspan></text>
+    <text x="280" y="125" class="text">------------------</text>
+    <text x="280" y="145" class="text"><tspan class="key">OS</tspan>: Arch Linux x86_64</text>
+    <text x="280" y="165" class="text"><tspan class="key">Host</tspan>: System Product Name</text>
+    <text x="280" y="185" class="text"><tspan class="key">Kernel</tspan>: 6.8.9-arch1-1</text>
+    <text x="280" y="205" class="text"><tspan class="key">Uptime</tspan>: 4 hours, 20 mins</text>
+    <text x="280" y="225" class="text"><tspan class="key">Packages</tspan>: 1337 (pacman)</text>
+    <text x="280" y="245" class="text"><tspan class="key">Shell</tspan>: bash 5.2.26</text>
+    <text x="280" y="265" class="text"><tspan class="key">Terminal</tspan>: alacritty</text>
+    <text x="280" y="285" class="text"><tspan class="key">CPU</tspan>: Intel i7-1165G7 (8) @ 4.700GHz</text>
+    <text x="280" y="305" class="text"><tspan class="key">Memory</tspan>: 4321MiB / 15774MiB</text>
+
+    <!-- Color palette blocks -->
+    <rect x="280" y="335" width="16" height="16" fill="#111111"/>
+    <rect x="296" y="335" width="16" height="16" fill="#ff5f56"/>
+    <rect x="312" y="335" width="16" height="16" fill="#27c93f"/>
+    <rect x="328" y="335" width="16" height="16" fill="#ffbd2e"/>
+    <rect x="344" y="335" width="16" height="16" fill="#1793d1"/>
+    <rect x="360" y="335" width="16" height="16" fill="#b48ead"/>
+    <rect x="376" y="335" width="16" height="16" fill="#89dceb"/>
+    <rect x="392" y="335" width="16" height="16" fill="#e0e0e0"/>
+
+    <!-- New Command Prompt -->
+    <text x="20" y="405" class="text">
+      <tspan fill="#27c93f">william@cyber-labs</tspan><tspan fill="#e0e0e0">:</tspan><tspan fill="#1793d1">~</tspan><tspan fill="#e0e0e0">$ </tspan>
+    </text>
+    <rect x="180" y="393" width="8" height="15" class="cursor"/>
+  </g>
+</svg>
