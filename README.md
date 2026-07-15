@@ -68,6 +68,16 @@ Mi espacio de práctica para ciberseguridad defensiva, Linux, Bash, auditoría w
   <a href="archive/historical-work-log/README.md">Ver archivo histórico</a>
 </p>
 
+## En movimiento
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/main/assets/fun/dino.gif" alt="Ruta de proyectos de William Medina" width="100%" />
+</p>
+
+<p align="center">
+  <sub>VialCentiva, Paltodoc, Academia Daemon, Cyber Labs y proyectos web reales en una misma ruta.</sub>
+</p>
+
 ## GitHub Stats
 
 <p align="center">
@@ -102,18 +112,48 @@ Mi espacio de práctica para ciberseguridad defensiva, Linux, Bash, auditoría w
   </p>
 </details>
 
-## 🏆 Certificaciones Destacadas
+## 🏆 Licencias y Certificaciones Profesionales
 
-Me mantengo en constante aprendizaje, especializándome en infraestructura de redes, soporte IT y ciberseguridad defensiva a través de Cisco Networking Academy.
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr align="center" style="border: none;">
+    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+      <img src="https://img.shields.io/badge/Cybersecurity_Analyst-005073?style=for-the-badge&logo=cisco&logoColor=white" width="100%" />
+      <br/><br/>
+      <b>Junior Cybersecurity Analyst Career Path</b><br/>
+      <small>Cisco Networking Academy • <i>Jul 2026</i></small><br/>
+      <code>ac3b9f5e-3d8f-4d6d-87d0-968a6f122111</code><br/><br/>
+      <a href="https://www.credly.com/badges/ac3b9f5e-3d8f-4d6d-87d0-968a6f122111/public_url"><img src="https://img.shields.io/badge/Ver_Credencial-2ea043?style=flat-square&logo=credly&logoColor=white" /></a>
+    </td>
+    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+      <img src="https://img.shields.io/badge/CCNA:_SRWE-005073?style=for-the-badge&logo=cisco&logoColor=white" width="100%" />
+      <br/><br/>
+      <b>Switching, Routing, and Wireless Essentials</b><br/>
+      <small>Cisco Networking Academy • <i>Jun 2026</i></small><br/>
+      <code>e345a376-0da7-4e9a-a44f-edf0bae4c245</code><br/><br/>
+      <a href="https://www.credly.com/badges/e345a376-0da7-4e9a-a44f-edf0bae4c245/public_url"><img src="https://img.shields.io/badge/Ver_Credencial-2ea043?style=flat-square&logo=credly&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr align="center" style="border: none;">
+    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+      <img src="https://img.shields.io/badge/CCNA:_ITN-005073?style=for-the-badge&logo=cisco&logoColor=white" width="100%" />
+      <br/><br/>
+      <b>Introduction to Networks</b><br/>
+      <small>Cisco Networking Academy • <i>Feb 2026</i></small><br/>
+      <code>85728e51-0782-4e0f-b27e-0a0f87995fd1</code><br/><br/>
+      <a href="https://www.credly.com/badges/85728e51-0782-4e0f-b27e-0a0f87995fd1/public_url"><img src="https://img.shields.io/badge/Ver_Credencial-2ea043?style=flat-square&logo=credly&logoColor=white" /></a>
+    </td>
+    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+      <img src="https://img.shields.io/badge/IT_Essentials-005073?style=for-the-badge&logo=cisco&logoColor=white" width="100%" />
+      <br/><br/>
+      <b>IT Essentials</b><br/>
+      <small>Cisco Networking Academy • <i>Dic 2025</i></small><br/>
+      <code>910b86b8-7c27-40db-92a6-c1f04ee4f4b6</code><br/><br/>
+      <a href="https://www.credly.com/badges/910b86b8-7c27-40db-92a6-c1f04ee4f4b6/public_url"><img src="https://img.shields.io/badge/Ver_Credencial-2ea043?style=flat-square&logo=credly&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
 
-- 🛡️ **Junior Cybersecurity Analyst Career Path** — Cisco *(Jul 2026)*<br/>
-  <sup>ID: `ac3b9f5e-3d8f-4d6d-87d0-968a6f122111`</sup>
-- 🌐 **CCNA: Switching, Routing, and Wireless Essentials** — Cisco *(Jun 2026)*<br/>
-  <sup>ID: `e345a376-0da7-4e9a-a44f-edf0bae4c245`</sup>
-- 🌐 **CCNA: Introduction to Networks** — Cisco *(Feb 2026)*<br/>
-  <sup>ID: `85728e51-0782-4e0f-b27e-0a0f87995fd1`</sup>
-- 💻 **IT Essentials** — Cisco *(Dic 2025)*<br/>
-  <sup>ID: `910b86b8-7c27-40db-92a6-c1f04ee4f4b6`</sup>
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy" />
