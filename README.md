@@ -68,15 +68,29 @@ Mi espacio de práctica para ciberseguridad defensiva, Linux, Bash, auditoría w
   <a href="archive/historical-work-log/README.md">Ver archivo histórico</a>
 </p>
 
-## En movimiento
+## 💻 Sistema y Entorno (Cyber Labs)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/main/assets/fun/dino.gif" alt="Ruta de proyectos de William Medina" width="100%" />
-</p>
-
-<p align="center">
-  <sub>VialCentiva, Paltodoc, Academia Daemon, Cyber Labs y proyectos web reales en una misma ruta.</sub>
-</p>
+```text
+                   -`                    william@cyber-labs
+                  .o+`                   ------------------
+                 `ooo/                   OS: Arch Linux x86_64
+                `+oooo:                  Host: Security Terminal
+               `+oooooo:                 Kernel: Linux Defensivo 6.8.9
+               -+oooooo+:                Uptime: 24/7 Learning Mode
+             `/:-:++oooo+:               Packages: 1337 (pacman)
+            `/++++/+++++++:              Shell: bash 5.2.26
+           `/++++++++++++++:             Terminal: Alacritty (CyberSec)
+          `/+++ooooooooooooo/`           CPU: Sistemas & IA
+         ./ooosssso++osssssso+`          Memory: 100% Enfocado
+        .oossssso-````/ossssss+`         
+       -osssssso.      :ssssssso.        
+      :osssssss/        osssso+++.       
+     /ossssssss/        +ssssooo/-       
+   `/ossssso+/:-        -:/+osssso+-     
+  `+sso+:-`                 `.-/+oso:    
+ `++:.                           `-/+/   
+ .`                                 `/   
+```
 
 ## GitHub Stats
 
