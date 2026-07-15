@@ -9,8 +9,7 @@
 <h1 align="center">William Medina</h1>
 
 <p align="center">
-  <strong>Estudiante de Ingeniería de Sistemas</strong> metido en desarrollo web, ciberseguridad e IA aplicada.
-  Me gusta crear cosas que no se queden solo en una demo bonita: proyectos que alguien pueda usar, probar y mejorar.
+  <strong>Estudiante de Ingeniería de Sistemas</strong> apasionado por el desarrollo de software, la ciberseguridad defensiva y la inteligencia artificial. Mi objetivo es transformar ideas complejas en soluciones tecnológicas prácticas, seguras y escalables que generen un impacto real.
 </p>
 
 <p align="center">
@@ -21,51 +20,51 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="docs/PROJECTS.md">
-    <img src="https://img.shields.io/badge/Proyectos-0F766E?style=for-the-badge&logo=rocket&logoColor=white" alt="Proyectos" />
+    <img src="https://img.shields.io/badge/Proyectos-00FFFF?style=for-the-badge&logo=rocket&logoColor=111111&labelColor=111111&color=5ab0b2" alt="Proyectos" />
   </a>
   <a href="docs/CERTIFICATIONS.md">
-    <img src="https://img.shields.io/badge/Certificados-2563EB?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Certificados" />
+    <img src="https://img.shields.io/badge/Certificados-00FFFF?style=for-the-badge&logo=googlecloud&logoColor=111111&labelColor=111111&color=5ab0b2" alt="Certificados" />
   </a>
 </p>
 
-## Sobre mí
+## 👨‍💻 Sobre Mí
 
-Soy de los que aprende mejor construyendo. A veces eso significa pelearme con una integración, ordenar una base de datos, mejorar una pantalla en móvil o romper algo en un laboratorio controlado para entender cómo protegerlo mejor.
+Me apasiona resolver problemas reales a través de la tecnología. Mi enfoque combina la ingeniería de software estructurada con un profundo interés en proteger la información y aprovechar los datos empíricos. Diseño y construyo herramientas buscando siempre un impacto tangible: desde optimizar la educación y el transporte en mi comunidad, hasta auditar y asegurar sistemas en entornos controlados.
 
-Ahora estoy enfocado en:
+Actualmente canalizo mi energía en cuatro pilares fundamentales:
 
-- **Aplicaciones web reales:** Angular, React, Firebase, Supabase, Laravel y APIs.
-- **Ciberseguridad defensiva:** Linux, Kali, auditoría web y buenas prácticas de desarrollo seguro.
-- **IA aplicada:** proyectos con datos, visión por computadora y herramientas que resuelvan problemas concretos.
-- **Tecnología con impacto local:** transporte, educación, agricultura y comunidades que necesitan soluciones simples y útiles.
+- 🔹 **Arquitectura de Software:** Construcción de aplicaciones web robustas, escalables y orientadas al usuario.
+- 🔹 **Ciberseguridad Defensiva:** Auditoría, *hardening* de entornos Linux y buenas prácticas de desarrollo seguro.
+- 🔹 **Inteligencia Artificial:** Implementación de modelos de visión por computadora y análisis de datos aplicados.
+- 🔹 **Impacto Tecnológico Local:** Creación de ecosistemas digitales accesibles para la agricultura, educación y transporte.
 
-## Stack que uso y estoy fortaleciendo
+## 🛠️ Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,react,vite,python,php,laravel,mysql,supabase,firebase,gcp,git,github,linux,kali,bash,postman,arduino,c&perline=10" alt="Angular, TypeScript, JavaScript, React, Vite, Python, PHP, Laravel, MySQL, Supabase, Firebase, Google Cloud, Git, GitHub, Linux, Kali, Bash, Postman, Arduino y C" width="760" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,ts,js,react,vite,python,php,laravel,mysql,supabase,firebase,gcp,git,github,linux,kali,bash,postman,arduino,c&theme=dark&perline=10" alt="Stack Tecnológico" width="760" />
+  </a>
 </p>
 
-## Proyectos que me representan
+## 🚀 Proyectos Destacados
 
-### CamisetaPromo2025
-Plataforma para la Promoción 2025 de la IEE José María Arguedas: registro de camisetas, tallas, agenda, deportes, comunidad, fotos, comentarios y panel admin con Firebase.
+> **🎓 CamisetaPromo2025**  
+> Plataforma integral para la Promoción 2025 de la IEE José María Arguedas. Gestión de comunidad, pedidos y panel administrativo en tiempo real.
 
-### VialCentiva
-Sistema de reputación para transporte mediante QR, pensado para que los pasajeros puedan evaluar y consultar información útil de conductores.
+> **🚕 VialCentiva**  
+> Sistema de reputación y seguridad para el transporte público mediante códigos QR, facilitando la evaluación ciudadana de los conductores.
 
-### Paltodoc
-Proyecto de IA para apoyar la detección de anomalías foliares en palta, trabajando con imágenes, datasets y flujos de evaluación.
+> **🌱 Paltodoc**  
+> Sistema basado en Inteligencia Artificial y Visión por Computadora diseñado para la detección temprana de anomalías foliares en cultivos agrícolas.
 
-### Academia Daemon
-Iniciativa educativa para acercar programación, IA y cultura digital a niños y adolescentes con proyectos prácticos.
+> **🛡️ Cyber Labs**  
+> Entorno local de experimentación técnica enfocado en ciberseguridad defensiva, auditoría de aplicaciones web y administración avanzada de sistemas Linux.
 
-### Cyber Labs
-Mi espacio de práctica para ciberseguridad defensiva, Linux, Bash, auditoría web y aprendizaje técnico controlado.
+<br/>
 
-<p>
-  <a href="docs/PROJECTS.md">Ver mapa completo de proyectos</a> ·
-  <a href="docs/SECURITY-LAB.md">Ver laboratorio de seguridad</a> ·
-  <a href="archive/historical-work-log/README.md">Ver archivo histórico</a>
+<p align="center">
+  <a href="docs/PROJECTS.md"><img src="https://img.shields.io/badge/Explorar_Proyectos-00FFFF?style=for-the-badge&logo=github&logoColor=111111&labelColor=111111&color=5ab0b2" /></a>
+  <a href="docs/SECURITY-LAB.md"><img src="https://img.shields.io/badge/Laboratorio_de_Seguridad-00FFFF?style=for-the-badge&logo=kalilinux&logoColor=111111&labelColor=111111&color=5ab0b2" /></a>
 </p>
 
 ## 💻 Sistema y Entorno (Cyber Labs)
