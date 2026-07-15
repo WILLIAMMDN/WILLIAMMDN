@@ -118,51 +118,31 @@ Mi espacio de práctica para ciberseguridad defensiva, Linux, Bash, auditoría w
 
 ## 🏆 Licencias y Certificaciones Profesionales
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr align="center" style="border: none;">
-    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-      <img src="https://img.shields.io/badge/Cybersecurity_Analyst-005073?style=for-the-badge&logo=cisco&logoColor=white" width="100%" />
-      <br/><br/>
-      <b>Junior Cybersecurity Analyst Career Path</b><br/>
-      <small>Cisco Networking Academy • <i>Jul 2026</i></small><br/>
-      <code>ac3b9f5e-3d8f-4d6d-87d0-968a6f122111</code><br/><br/>
-      <a href="https://www.credly.com/badges/ac3b9f5e-3d8f-4d6d-87d0-968a6f122111/public_url"><img src="https://img.shields.io/badge/Ver_Credencial-2ea043?style=flat-square&logo=credly&logoColor=white" /></a>
-    </td>
-    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-      <img src="https://img.shields.io/badge/CCNA:_SRWE-005073?style=for-the-badge&logo=cisco&logoColor=white" width="100%" />
-      <br/><br/>
-      <b>Switching, Routing, and Wireless Essentials</b><br/>
-      <small>Cisco Networking Academy • <i>Jun 2026</i></small><br/>
-      <code>e345a376-0da7-4e9a-a44f-edf0bae4c245</code><br/><br/>
-      <a href="https://www.credly.com/badges/e345a376-0da7-4e9a-a44f-edf0bae4c245/public_url"><img src="https://img.shields.io/badge/Ver_Credencial-2ea043?style=flat-square&logo=credly&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr align="center" style="border: none;">
-    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-      <img src="https://img.shields.io/badge/CCNA:_ITN-005073?style=for-the-badge&logo=cisco&logoColor=white" width="100%" />
-      <br/><br/>
-      <b>Introduction to Networks</b><br/>
-      <small>Cisco Networking Academy • <i>Feb 2026</i></small><br/>
-      <code>85728e51-0782-4e0f-b27e-0a0f87995fd1</code><br/><br/>
-      <a href="https://www.credly.com/badges/85728e51-0782-4e0f-b27e-0a0f87995fd1/public_url"><img src="https://img.shields.io/badge/Ver_Credencial-2ea043?style=flat-square&logo=credly&logoColor=white" /></a>
-    </td>
-    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-      <img src="https://img.shields.io/badge/IT_Essentials-005073?style=for-the-badge&logo=cisco&logoColor=white" width="100%" />
-      <br/><br/>
-      <b>IT Essentials</b><br/>
-      <small>Cisco Networking Academy • <i>Dic 2025</i></small><br/>
-      <code>910b86b8-7c27-40db-92a6-c1f04ee4f4b6</code><br/><br/>
-      <a href="https://www.credly.com/badges/910b86b8-7c27-40db-92a6-c1f04ee4f4b6/public_url"><img src="https://img.shields.io/badge/Ver_Credencial-2ea043?style=flat-square&logo=credly&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.credly.com/badges/ac3b9f5e-3d8f-4d6d-87d0-968a6f122111/public_url">
+    <img src="./assets/profile/cert-cybersecurity.svg" alt="Cybersecurity Analyst" width="48%" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/e345a376-0da7-4e9a-a44f-edf0bae4c245/public_url">
+    <img src="./assets/profile/cert-ccna-srwe.svg" alt="CCNA SRWE" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.credly.com/badges/85728e51-0782-4e0f-b27e-0a0f87995fd1/public_url">
+    <img src="./assets/profile/cert-ccna-itn.svg" alt="CCNA ITN" width="48%" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/910b86b8-7c27-40db-92a6-c1f04ee4f4b6/public_url">
+    <img src="./assets/profile/cert-it-essentials.svg" alt="IT Essentials" width="48%" />
+  </a>
+</p>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy" />
-  <img src="https://img.shields.io/badge/Ciberseguridad-En%20práctica-0F766E?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Ciberseguridad en práctica" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-Aprendiendo-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/NETWORKING_ACADEMY-00FFFF?style=for-the-badge&logo=cisco&logoColor=111111&label=CISCO&labelColor=111111" alt="Cisco Networking Academy" />
+  <img src="https://img.shields.io/badge/EN_PRÁCTICA-00FFFF?style=for-the-badge&logo=kalilinux&logoColor=111111&label=CIBERSEGURIDAD&labelColor=111111" alt="Ciberseguridad en práctica" />
+  <img src="https://img.shields.io/badge/APRENDIENDO-00FFFF?style=for-the-badge&logo=googlecloud&logoColor=111111&label=GOOGLE_CLOUD&labelColor=111111" alt="Google Cloud" />
 </p>
 
 ---
