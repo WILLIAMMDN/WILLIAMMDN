@@ -71,7 +71,7 @@ Mi espacio de práctica para ciberseguridad defensiva, Linux, Bash, auditoría w
 ## 💻 Sistema y Entorno (Cyber Labs)
 
 <p align="center">
-  <img src="./assets/profile/neofetch.svg?v=8" alt="Cyber Labs Neofetch Terminal" width="100%" />
+  <img src="./assets/profile/neofetch.svg?v=9" alt="Cyber Labs Neofetch Terminal" width="100%" />
 </p>
 
 ## GitHub Stats
