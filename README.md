@@ -68,17 +68,7 @@ Mi espacio de práctica para ciberseguridad defensiva, Linux, Bash, auditoría w
   <a href="archive/historical-work-log/README.md">Ver archivo histórico</a>
 </p>
 
-## En movimiento
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WILLIAMMDN/WILLIAMMDN/main/assets/fun/dino.gif" alt="Ruta de proyectos de William Medina" width="100%" />
-</p>
-
-<p align="center">
-  <sub>VialCentiva, Paltodoc, Academia Daemon, Cyber Labs y proyectos web reales en una misma ruta.</sub>
-</p>
-
-## GitHub en modo claro y oscuro
+## GitHub Stats
 
 <p align="center">
   <picture>
@@ -112,17 +102,24 @@ Mi espacio de práctica para ciberseguridad defensiva, Linux, Bash, auditoría w
   </p>
 </details>
 
-## Certificados y ruta de aprendizaje
+## 🏆 Certificaciones Destacadas
 
-Estoy ordenando mis certificaciones y badges para que el perfil no sea solo una vitrina, sino un registro claro de lo que voy aprendiendo y aplicando.
+Me mantengo en constante aprendizaje, especializándome en infraestructura de redes, soporte IT y ciberseguridad defensiva a través de Cisco Networking Academy.
+
+- 🛡️ **Junior Cybersecurity Analyst Career Path** — Cisco *(Jul 2026)*<br/>
+  <sup>ID: `ac3b9f5e-3d8f-4d6d-87d0-968a6f122111`</sup>
+- 🌐 **CCNA: Switching, Routing, and Wireless Essentials** — Cisco *(Jun 2026)*<br/>
+  <sup>ID: `e345a376-0da7-4e9a-a44f-edf0bae4c245`</sup>
+- 🌐 **CCNA: Introduction to Networks** — Cisco *(Feb 2026)*<br/>
+  <sup>ID: `85728e51-0782-4e0f-b27e-0a0f87995fd1`</sup>
+- 💻 **IT Essentials** — Cisco *(Dic 2025)*<br/>
+  <sup>ID: `910b86b8-7c27-40db-92a6-c1f04ee4f4b6`</sup>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy" />
   <img src="https://img.shields.io/badge/Ciberseguridad-En%20práctica-0F766E?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Ciberseguridad en práctica" />
   <img src="https://img.shields.io/badge/Google%20Cloud-Aprendiendo-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
 </p>
-
-Más detalles en el [registro de certificaciones](docs/CERTIFICATIONS.md).
 
 ---
 
