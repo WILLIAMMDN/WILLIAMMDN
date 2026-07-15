@@ -3,7 +3,7 @@
     <style>
       .bg { fill: #111111; }
       .text { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #e0e0e0; }
-      .logo { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #5ab0b2; font-weight: bold; }
+      .logo { font-family: 'Courier New', Courier, monospace; font-size: 10px; fill: #5ab0b2; font-weight: bold; }
       .user { fill: #5ab0b2; font-weight: bold; }
       .host { fill: #e0e0e0; font-weight: bold; }
       .key { fill: #5ab0b2; font-weight: bold; }
@@ -21,44 +21,55 @@
   <circle cx="60" cy="20" r="6" fill="#27c93f"/>
   <text x="325" y="24" fill="#888888" font-family="sans-serif" font-size="12" text-anchor="middle">william@cyber-labs: ~</text>
 
-  <text x="20" y="55" class="text" xml:space="preserve"><tspan fill="#27c93f">william@cyber-labs</tspan><tspan fill="#e0e0e0">:</tspan><tspan fill="#5ab0b2">~</tspan><tspan fill="#e0e0e0">$ neofetch</tspan></text>
+  <text x="20" y="55" class="text" xml:space="preserve"><tspan fill="#27c93f">william@cyber-labs</tspan><tspan fill="#e0e0e0">:</tspan><tspan fill="#5ab0b2">~</tspan><tspan fill="#e0e0e0">$ neofetch --ascii_distro radiohead</tspan></text>
 
   <g class="content">
-    <!-- Left Column: Radiohead Logo (x=20) -->
-    <text x="20" y="85" class="logo" xml:space="preserve">        .,-""""""-,.      </text>
-    <text x="20" y="105" class="logo" xml:space="preserve">      ,'            '.    </text>
-    <text x="20" y="125" class="logo" xml:space="preserve">     /    _      _    \   </text>
-    <text x="20" y="145" class="logo" xml:space="preserve">    :    / \    / \    :  </text>
-    <text x="20" y="165" class="logo" xml:space="preserve">    |    \_/    \_/    |  </text>
-    <text x="20" y="185" class="logo" xml:space="preserve">    |                  |  </text>
-    <text x="20" y="205" class="logo" xml:space="preserve">    :    .--------.    :  </text>
-    <text x="20" y="225" class="logo" xml:space="preserve">     \   |////////|   /   </text>
-    <text x="20" y="245" class="logo" xml:space="preserve">      '. '--------' .'    </text>
-    <text x="20" y="265" class="logo" xml:space="preserve">        '-,_    _,-'      </text>
-    <text x="20" y="285" class="logo" xml:space="preserve">            """"          </text>
+    <!-- Left Column: Radiohead LiDAR Face (x=20) -->
+    <text x="20" y="85" class="logo" xml:space="preserve">             ..::::cc::::..            </text>
+    <text x="20" y="97" class="logo" xml:space="preserve">        ..:lodddddddddddddddol:..      </text>
+    <text x="20" y="109" class="logo" xml:space="preserve">     .:loooddddddddddddddddddddool:.   </text>
+    <text x="20" y="121" class="logo" xml:space="preserve">   .:looddddddddddddddddddddddddddool:.</text>
+    <text x="20" y="133" class="logo" xml:space="preserve">  .clodddddddddddddddddddddddddddddddlc</text>
+    <text x="20" y="145" class="logo" xml:space="preserve"> .clodddddddddddddddddddddddddddddddddl</text>
+    <text x="20" y="157" class="logo" xml:space="preserve"> .clodddddddddddddddddddddddddddddddddl</text>
+    <text x="20" y="169" class="logo" xml:space="preserve"> :loodddddddddooooooddddddooooodddddddo</text>
+    <text x="20" y="181" class="logo" xml:space="preserve"> cooddddddoc;'.......'''.......';codddo</text>
+    <text x="20" y="193" class="logo" xml:space="preserve">.loodddddl'   ..',.      .,'..   'ldddo</text>
+    <text x="20" y="205" class="logo" xml:space="preserve">.looddddo.  .cO000o.    .o000Oc.  .oddo</text>
+    <text x="20" y="217" class="logo" xml:space="preserve">.looddddo.  .d0000d.    .d0000d.  .oddo</text>
+    <text x="20" y="229" class="logo" xml:space="preserve"> loodddddl.  .cooc.      .cooc.  .ldddo</text>
+    <text x="20" y="241" class="logo" xml:space="preserve"> cooddddddo:.                  .:oddddo</text>
+    <text x="20" y="253" class="logo" xml:space="preserve"> :looddddddddl:..          ..:ldddddddl</text>
+    <text x="20" y="265" class="logo" xml:space="preserve"> .clodddddddddo.   .lkkkkl.   .oddddddl</text>
+    <text x="20" y="277" class="logo" xml:space="preserve">  .cloddddddddo.   'kKKKKk'   .odddddlc</text>
+    <text x="20" y="289" class="logo" xml:space="preserve">   .clodddddddd:   .l0000l.   :ddddddlc</text>
+    <text x="20" y="301" class="logo" xml:space="preserve">    .:looddddddolc::loooool::loddddddool</text>
+    <text x="20" y="313" class="logo" xml:space="preserve">      .:looodddddddddddddddddddddddddoo</text>
+    <text x="20" y="325" class="logo" xml:space="preserve">         ..:loodddddddddddddddddddool:.</text>
+    <text x="20" y="337" class="logo" xml:space="preserve">              ..::::cllllc::::..       </text>
 
     <!-- Right Column: System Info (x=300) -->
-    <text x="300" y="85" class="text" xml:space="preserve"><tspan class="user">william</tspan><tspan>@</tspan><tspan class="host">cyber-labs</tspan></text>
-    <text x="300" y="105" class="text" xml:space="preserve">------------------</text>
-    <text x="300" y="125" class="text" xml:space="preserve"><tspan class="key">OS</tspan>: Arch Linux x86_64</text>
-    <text x="300" y="145" class="text" xml:space="preserve"><tspan class="key">Host</tspan>: System Product Name</text>
-    <text x="300" y="165" class="text" xml:space="preserve"><tspan class="key">Kernel</tspan>: 6.8.9-arch1-1</text>
-    <text x="300" y="185" class="text" xml:space="preserve"><tspan class="key">Uptime</tspan>: 4 hours, 20 mins</text>
-    <text x="300" y="205" class="text" xml:space="preserve"><tspan class="key">Packages</tspan>: 1337 (pacman)</text>
-    <text x="300" y="225" class="text" xml:space="preserve"><tspan class="key">Shell</tspan>: bash 5.2.26</text>
-    <text x="300" y="245" class="text" xml:space="preserve"><tspan class="key">Terminal</tspan>: alacritty</text>
-    <text x="300" y="265" class="text" xml:space="preserve"><tspan class="key">CPU</tspan>: Intel i7-1165G7 (8) @ 4.70GHz</text>
-    <text x="300" y="285" class="text" xml:space="preserve"><tspan class="key">Memory</tspan>: 4321MiB / 15774MiB</text>
+    <text x="290" y="85" class="text" xml:space="preserve"><tspan class="user">william</tspan><tspan>@</tspan><tspan class="host">cyber-labs</tspan></text>
+    <text x="290" y="105" class="text" xml:space="preserve">------------------</text>
+    <text x="290" y="125" class="text" xml:space="preserve"><tspan class="key">OS</tspan>: Arch Linux x86_64</text>
+    <text x="290" y="145" class="text" xml:space="preserve"><tspan class="key">Host</tspan>: System Product Name</text>
+    <text x="290" y="165" class="text" xml:space="preserve"><tspan class="key">Kernel</tspan>: 6.8.9-arch1-1</text>
+    <text x="290" y="185" class="text" xml:space="preserve"><tspan class="key">Uptime</tspan>: 4 hours, 20 mins</text>
+    <text x="290" y="205" class="text" xml:space="preserve"><tspan class="key">Packages</tspan>: 1337 (pacman)</text>
+    <text x="290" y="225" class="text" xml:space="preserve"><tspan class="key">Shell</tspan>: bash 5.2.26</text>
+    <text x="290" y="245" class="text" xml:space="preserve"><tspan class="key">Terminal</tspan>: alacritty</text>
+    <text x="290" y="265" class="text" xml:space="preserve"><tspan class="key">CPU</tspan>: Intel i7-1165G7 (8) @ 4.70GHz</text>
+    <text x="290" y="285" class="text" xml:space="preserve"><tspan class="key">Memory</tspan>: 4321MiB / 15774MiB</text>
 
     <!-- Right Column: Palette Blocks -->
-    <rect x="300" y="305" width="16" height="16" fill="#111111"/>
-    <rect x="316" y="305" width="16" height="16" fill="#ff5f56"/>
-    <rect x="332" y="305" width="16" height="16" fill="#27c93f"/>
-    <rect x="348" y="305" width="16" height="16" fill="#ffbd2e"/>
-    <rect x="364" y="305" width="16" height="16" fill="#1793d1"/>
-    <rect x="380" y="305" width="16" height="16" fill="#b48ead"/>
-    <rect x="396" y="305" width="16" height="16" fill="#89dceb"/>
-    <rect x="412" y="305" width="16" height="16" fill="#e0e0e0"/>
+    <rect x="290" y="305" width="16" height="16" fill="#111111"/>
+    <rect x="306" y="305" width="16" height="16" fill="#ff5f56"/>
+    <rect x="322" y="305" width="16" height="16" fill="#27c93f"/>
+    <rect x="338" y="305" width="16" height="16" fill="#ffbd2e"/>
+    <rect x="354" y="305" width="16" height="16" fill="#5ab0b2"/>
+    <rect x="370" y="305" width="16" height="16" fill="#b48ead"/>
+    <rect x="386" y="305" width="16" height="16" fill="#89dceb"/>
+    <rect x="402" y="305" width="16" height="16" fill="#e0e0e0"/>
 
     <!-- Prompt at the bottom -->
     <text x="20" y="405" class="text" xml:space="preserve"><tspan fill="#27c93f">william@cyber-labs</tspan><tspan fill="#e0e0e0">:</tspan><tspan fill="#5ab0b2">~</tspan><tspan fill="#e0e0e0">$ </tspan></text>
