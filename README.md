@@ -83,6 +83,20 @@ Actualmente canalizo mi energía en cuatro pilares fundamentales:
   </picture>
 </p>
 
+## 🏅 Trofeos y Estadísticas
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=WILLIAMMDN&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos de GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=WILLIAMMDN&bg_color=111111&title_color=00FFFF&text_color=e0e0e0&icon_color=5ab0b2&hide_border=true&show_icons=true" alt="Estadísticas de GitHub" />
+  </a>
+</p>
+
 ## 📊 Repositorios Destacados
 
 <p align="center">
